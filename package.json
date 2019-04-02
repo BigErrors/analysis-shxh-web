@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "core-js": "2",
     "vue": "^2.6.6",
-    "vue-g2": "^1.0.4",
+    "vue-g2": "^1.1.0",
     "vue-mapboxgl-components": "^0.1.21",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
@@ -23,12 +24,12 @@
     "@vue/cli-service": "^3.5.0",
     "@vue/eslint-config-standard": "^4.0.0",
     "babel-eslint": "^10.0.1",
+    "compression-webpack-plugin": "^1.1.12",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
-    "vue-template-compiler": "^2.5.21",
-    "compression-webpack-plugin": "^1.1.12"
+    "vue-template-compiler": "^2.5.21"
   },
   "eslintConfig": {
     "root": true,

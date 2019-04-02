@@ -2462,15 +2462,15 @@ core-js-pure@3.0.0:
   resolved "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.0.0.tgz#a5679adb4875427c8c0488afc93e6f5b7125859b"
   integrity sha512-yPiS3fQd842RZDgo/TAKGgS0f3p2nxssF1H65DIZvZv0Od5CygP8puHXn3IQiM/39VAvgCbdaMQpresrbGgt9g==
 
+core-js@2, core-js@^2.6.5:
+  version "2.6.5"
+  resolved "https://registry.npmjs.org/core-js/-/core-js-2.6.5.tgz#44bc8d249e7fb2ff5d00e0341a7ffb94fbf67895"
+  integrity sha512-klh/kDpwX8hryYL14M9w/xei6vrv6sE8gTHDG7/T/+SEovB/G4ejwcfE/CBzO6Edsu+OETZMZ3wcX/EjUkrl5A==
+
 core-js@3.0.0:
   version "3.0.0"
   resolved "https://registry.npmjs.org/core-js/-/core-js-3.0.0.tgz#a8dbfa978d29bfc263bfb66c556d0ca924c28957"
   integrity sha512-WBmxlgH2122EzEJ6GH8o9L/FeoUKxxxZ6q6VUxoTlsE4EvbTWKJb447eyVxTEuq0LpXjlq/kCB2qgBvsYRkLvQ==
-
-core-js@^2.6.5:
-  version "2.6.5"
-  resolved "https://registry.npmjs.org/core-js/-/core-js-2.6.5.tgz#44bc8d249e7fb2ff5d00e0341a7ffb94fbf67895"
-  integrity sha512-klh/kDpwX8hryYL14M9w/xei6vrv6sE8gTHDG7/T/+SEovB/G4ejwcfE/CBzO6Edsu+OETZMZ3wcX/EjUkrl5A==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
@@ -8593,13 +8593,14 @@ vue-eslint-parser@^5.0.0:
     esquery "^1.0.1"
     lodash "^4.17.11"
 
-vue-g2@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.npmjs.org/vue-g2/-/vue-g2-1.0.4.tgz#7a225e5a8d6c2298b814803a1895716553b07ae9"
-  integrity sha512-OlHV4sHjChxrivuXBloOv4PQedo4XrzLPastfKh21IgUu5TeTuNK0Z1+WUp4jwgZkw5sIEV45/nzjN0SI0DogQ==
+vue-g2@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/vue-g2/-/vue-g2-1.1.0.tgz#0d78a0af0e800a5db13c7e42b23c721ff3ae1abc"
+  integrity sha512-yCr53C09fmNDA6H26N24y8nqJQBQcSloUS8mfT0fxM9peHbIXAIucTuQV+tipgor1QwWAlrTRVLDw3t+X/0zSw==
   dependencies:
     "@antv/data-set" "^0.9.6"
     "@antv/g2" "^3.2.8"
+    uuid "^3.3.2"
     vue "^2.5.17"
 
 vue-hot-reload-api@^2.3.0:
