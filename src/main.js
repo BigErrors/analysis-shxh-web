@@ -6,6 +6,7 @@ import '@/plugins/axios.js'
 import 'vue-g2'
 import 'vue-mapboxgl-components'
 import 'vue-mapboxgl-components/lib/vue-mapboxgl-components.css'
+import './plugins/element'
 
 Vue.config.productionTip = false
 
