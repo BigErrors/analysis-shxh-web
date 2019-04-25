@@ -1,0 +1,240 @@
+@import './common.less';
+
+.mediation {
+  position: absolute;
+  z-index: 5;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  min-height: 1080px;
+  min-width: 1920px;
+  background:rgba(7,7,7,0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .displayArea {
+    position: relative;
+    z-index: 6;
+    min-height: 910px;
+    min-width: 1600px;
+    background: url('../image/mediaBackground.png') no-repeat;
+    display: flex;
+    flex-direction: column;
+    .title {
+      position: relative;
+      height: 90px;
+      font-size: 30px;
+      font-family: MicrosoftYaHei;
+      font-weight: bold;
+      color: rgba(25,200,226,1);
+      line-height: 90px;
+      text-align: center;
+      .close {
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        cursor: pointer;
+        top: 30px;
+        right: 60px;
+        &::before {
+          content: '';
+          border-top: 4px #57769A solid;
+          width: inherit;
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%, -50%) rotate(45deg);
+        }
+        &::after {
+          content: '';
+          border-top: 4px #57769A solid;
+          width: inherit;
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%, -50%) rotate(-45deg);
+        }
+      }
+    }
+    .select {
+      height: 50px;
+      display: flex;
+      justify-content: space-between;
+      margin: 0 60px;
+      border-bottom: 4px rgba(220,223,230,0.2) solid;
+      .mediateTypeSelect {
+        font-size: 20px;
+        font-family: MicrosoftYaHei;
+        font-weight: 400;
+        color: rgba(255,255,255,1);
+        line-height: 48px;
+        .option1 {
+          padding: 12px 20px;
+          cursor: pointer;
+          &.selected {
+            font-weight: bold;
+            border-bottom: 4px rgba(86,197,236,1) solid;
+          }
+        }
+      }
+      .dateTypeSelect {
+        font-size: 18px;
+        font-family: MicrosoftYaHei;
+        font-weight: 400;
+        color: rgba(156,156,156,1);
+        padding-top: 12px; 
+        .option2 {
+          margin: 0 10px;
+          padding: 0 5px;
+          cursor: pointer;
+          &.selected {
+            color: rgba(11,87,113,1);
+            background: rgba(86,197,236,1);
+            border-radius: 4px;
+          }
+        }
+      }
+    }
+    .content {
+      flex: 1;
+      margin: 0 60px; 
+      display: flex;
+      flex-direction: column;
+      .row1 {
+        display: flex;
+        justify-content: space-between;
+        .businessNum {
+          flex: 400;
+          .businessContent {
+            .type {
+              display: flex;
+              align-items: center;
+              width: 335px;
+              height: 90px;
+              background:rgba(9,83,95,0.2);
+              border:1px solid rgba(14,56,82,1);
+              border-radius:4px; 
+              margin: 10px 0;
+              .icon {
+                width: 60px;
+                height: 60px;
+                margin: 0 60px;
+                &.icon1 {
+                  background: url('../image/AJSL.png') no-repeat center;
+                }
+                &.icon2 {
+                  background: url('../image/TJCG.png') no-repeat center;
+                }
+                &.icon3 {
+                  background: url('../image/XYSSL.png') no-repeat center;
+                }
+              }
+              .name {
+                font-family: MicrosoftYaHei;
+                font-weight: 400;
+                color: rgba(255,255,255,0.45);
+                display: block;
+                .num{
+                  font-size: 31px;
+                  color: rgba(255,255,255,1);
+                }
+              }
+            }
+          }
+
+        }
+        .caseAcceptanceNum {
+          flex: 700;
+          position: relative;
+          .chartContainer {
+            width: 100%;
+            height: 320px;
+          }
+          .linkage {
+            position: absolute;
+            top: 20px;
+            right: 60px;
+            z-index: 10;
+            height: 26px;
+            span {
+              font-size:18px;
+              font-family:MicrosoftYaHei;
+              font-weight:400;
+              color:rgba(255,255,255,1);
+              margin-right: 10px;
+            }
+          }
+        }
+      }
+      .row2 {
+        flex: 1;
+        display: flex;
+        justify-content: space-between;
+        .typeRanking {
+          .noTypeRakingData {
+            color: rgb(96, 151, 177);
+            text-align: center;
+            line-height: 200px;
+            font-size: 20px;
+          }
+          flex: 400;
+          .typeContent {
+            display: flex;
+            flex-direction: column;
+            .type {
+              width: 335px;;
+              height: 36px;
+              font-family: MicrosoftYaHei;
+              color: white;
+              display: flex;
+              align-items: center;
+              &.evenNumberLine {
+                background:rgba(9,83,95,0.3);
+                border-radius:4px;
+              }
+              .icon {
+                width: 21px;
+                height: 21px;
+                background:rgba(16,142,255,1);
+                border-radius:50%;
+                font-size:18px;
+                line-height: 20px;
+                text-align: center;
+                margin-right: 30px;
+                margin-left: 20px;
+                &.overThree {
+                  background:rgba(240,242,245,1);
+                  color: black;
+                }
+              }
+              .name {
+                line-height: 35px;
+                font-size:16px;
+                width: 180px;
+              }
+              .num {
+                font-size: 22px;
+                text-align: right;
+                line-height: 35px;
+              }
+            }
+          }
+        }
+        .acceptanceTrend {
+          flex: 700;
+        }
+      }
+    }
+  }
+
+  // 图表标题
+  .chartTitleCommon {
+    font-size: 20px;
+    font-family: MicrosoftYaHei;
+    font-weight: 400;
+    color: rgba(255,255,255,1);
+    margin: 20px 0;
+    border-left: 3px #56C5EC solid;
+    padding-left: 15px;
+  }
+}

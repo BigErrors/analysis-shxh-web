@@ -12,11 +12,17 @@
   "dependencies": {
     "axios": "^0.18.0",
     "core-js": "2",
+    "element-ui": "^2.7.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "scss": "^0.2.4",
     "vue": "^2.6.6",
-    "vue-g2": "^1.1.0",
-    "vue-mapboxgl-components": "^0.1.21",
+    "vue-g2": "^1.1.2",
+    "vue-mapboxgl-components": "^0.1.24",
     "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "vuex": "^3.0.1",
+    "countup.js": "1.9.3",
+    "vue-countup-v2": "1.0.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
