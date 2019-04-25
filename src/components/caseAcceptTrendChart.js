@@ -1,143 +1,151 @@
 
-const caseAcceptTrendChart = (chart, data) => {
+// 司法所案件受理趋势柱状图
+
+const caseAcceptTrendChart = (chart, data, dateChoice) => {
   const dataDefault = [
     {
-      name: '0点',
+      time: '0',
       value: 0,
       type: '历史平均'
     },
     {
-      name: '2点',
+      time: '2',
       value: 0,
       type: '历史平均'
     },
     {
-      name: '4点',
+      time: '4',
       value: 0,
       type: '历史平均'
     },
     {
-      name: '6点',
+      time: '6',
       value: 0,
       type: '历史平均'
     },
     {
-      name: '8点',
+      time: '8',
       value: 0,
       type: '历史平均'
     },
     {
-      name: '10点',
-      value: 2,
-      type: '历史平均'
-    },
-    {
-      name: '12点',
-      value: 4,
-      type: '历史平均'
-    },
-    {
-      name: '14点',
-      value: 10,
-      type: '历史平均'
-    },
-    {
-      name: '16点',
-      value: 22,
-      type: '历史平均'
-    },
-    {
-      name: '18点',
-      value: 13,
-      type: '历史平均'
-    },
-    {
-      name: '20点',
-      value: 1,
-      type: '历史平均'
-    },
-    {
-      name: '22点',
+      time: '10',
       value: 0,
       type: '历史平均'
     },
     {
-      name: '24点',
+      time: '12',
+      value: 0,
+      type: '历史平均'
+    },
+    {
+      time: '14',
+      value: 0,
+      type: '历史平均'
+    },
+    {
+      time: '16',
+      value: 0,
+      type: '历史平均'
+    },
+    {
+      time: '18',
+      value: 0,
+      type: '历史平均'
+    },
+    {
+      time: '20',
+      value: 0,
+      type: '历史平均'
+    },
+    {
+      time: '22',
+      value: 0,
+      type: '历史平均'
+    },
+    {
+      time: '24',
       value: 0,
       type: '历史平均'
     },
 
     {
-      name: '0点',
+      time: '0',
       value: 0,
       type: '当前'
     },
     {
-      name: '2点',
+      time: '2',
       value: 0,
       type: '当前'
     },
     {
-      name: '4点',
+      time: '4',
       value: 0,
       type: '当前'
     },
     {
-      name: '6点',
+      time: '6',
       value: 0,
       type: '当前'
     },
     {
-      name: '8点',
+      time: '8',
       value: 0,
       type: '当前'
     },
     {
-      name: '10点',
-      value: 5,
-      type: '当前'
-    },
-    {
-      name: '12点',
-      value: 3,
-      type: '当前'
-    },
-    {
-      name: '14点',
-      value: 25,
-      type: '当前'
-    },
-    {
-      name: '16点',
-      value: 23,
-      type: '当前'
-    },
-    {
-      name: '18点',
-      value: 13,
-      type: '当前'
-    },
-    {
-      name: '20点',
-      value: 1,
-      type: '当前'
-    },
-    {
-      name: '22点',
+      time: '10',
       value: 0,
       type: '当前'
     },
     {
-      name: '24点',
+      time: '12',
+      value: 0,
+      type: '当前'
+    },
+    {
+      time: '14',
+      value: 0,
+      type: '当前'
+    },
+    {
+      time: '16',
+      value: 0,
+      type: '当前'
+    },
+    {
+      time: '18',
+      value: 0,
+      type: '当前'
+    },
+    {
+      time: '20',
+      value: 0,
+      type: '当前'
+    },
+    {
+      time: '22',
+      value: 0,
+      type: '当前'
+    },
+    {
+      time: '24',
       value: 0,
       type: '当前'
     }
   ]
-
   data = data.length === 0 ? dataDefault : data
+  const unitMap = {
+    'YJ0001': '点',
+    'YJ0002': '日',
+    'YJ0003': '月',
+    'YJ0004': '年'
+  }
   chart.source(data, {
-    name: {
-      range: [0, 1]
+    time: {
+      range: [0, 1],
+      formatter: (value) => (value + unitMap[dateChoice])
     }
   })
   chart.tooltip({
@@ -162,7 +170,7 @@ const caseAcceptTrendChart = (chart, data) => {
       }
     }
   })
-  chart.axis('name', {
+  chart.axis('time', {
     label: {
       textStyle: {
         fill: 'rgba(255,255,255,0.45)',
@@ -171,8 +179,8 @@ const caseAcceptTrendChart = (chart, data) => {
     },
     tickLine: null
   })
-  chart.area().position('name*value').color('type').shape('smooth')
-  chart.line().position('name*value').color('type').shape('smooth')
+  chart.area().position('time*value').color('type').shape('smooth')
+  chart.line().position('time*value').color('type').shape('smooth')
   chart.legend({
     position: 'top-right', // 设置图例的显示位置
     itemGap: 30, // 图例项之间的间距

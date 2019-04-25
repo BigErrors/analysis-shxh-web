@@ -1,4 +1,7 @@
-let caseAcceptNumChart = (chart, dataset, isLinkage) => {
+
+// 司法所案件受理量柱状图
+
+let caseAcceptNumChart = (chart, dataset, isLinkage, intervalClick, customRegion) => {
   let dataDefault = [{
     name: '长桥',
     value: 0
@@ -39,9 +42,9 @@ let caseAcceptNumChart = (chart, dataset, isLinkage) => {
     name: '康健',
     value: 0
   }]
-
-  let data = dataset.data || dataDefault
-
+  let data = dataset.zhuZhuangT.length === 0 ? dataDefault : dataset.zhuZhuangT
+  let guideOffsetX = dataset.pingJun === 0 ? -30 : 20
+  let guideOffsetY = dataset.pingJun === 0 ? 0 : -5
   // chart.source(data)
   chart.source(data, {
     name: {
@@ -84,7 +87,7 @@ let caseAcceptNumChart = (chart, dataset, isLinkage) => {
         fontWeight: 'normal',
         fontSize: 12
       }
-      if (value > dataset.averageNum) {
+      if (value > dataset.pingJun) {
         style.fontWeight = 'bold'
       }
       return style
@@ -94,13 +97,13 @@ let caseAcceptNumChart = (chart, dataset, isLinkage) => {
   chart.guide().regionFilter({
     top: true,
     start: ['start', 'max'],
-    end: ['end', dataset.averageNum],
+    end: ['end', dataset.pingJun],
     color: '#FF4D4F' // 超出平均值柱体颜色
   })
   chart.guide().line({
     top: true,
-    start: ['start', dataset.averageNum],
-    end: ['end', dataset.averageNum],
+    start: ['start', dataset.pingJun],
+    end: ['end', dataset.pingJun],
     lineStyle: {
       stroke: 'rgba(256,256,256,0.6)',
       lineWidth: 1,
@@ -113,13 +116,37 @@ let caseAcceptNumChart = (chart, dataset, isLinkage) => {
         fontSize: 12,
         fontWeight: 300
       },
-      content: '全区平均 ' + dataset.averageNum,
-      offsetY: -5,
-      offsetX: 20
+      content: '全区平均 ' + dataset.pingJun,
+      offsetY: guideOffsetY,
+      offsetX: guideOffsetX
     }
   })
-  if (isLinkage) {
-    chart.on('interval:click', ev => { console.log(ev) })
+  let test = (x, y) => chart.guide().region({
+    top: true,
+    start: [x, 'min'], // 辅助框起始位置
+    end: [y, 'max'], // 辅助框结束位置
+    style: {
+      fill: '#fff',
+      fillOpacity: 0.1
+    } // 辅助框的图形样式属性
+  })
+  test(customRegion.x, customRegion.y)
+  let getIndex = (name) => {
+    for (let i = 0; i < data.length; i++) {
+      if (data[i].name === name) {
+        return i
+      }
+    }
   }
+  let intervalClickDefault = () => console.log('click')
+  intervalClick = intervalClick || intervalClickDefault
+  if (isLinkage) {
+    chart.on('interval:click', ev => {
+      let name = ev.shape._id.substring(ev.shape._id.lastIndexOf('-') + 1, ev.shape._id.length)
+      let index = getIndex(name)
+      intervalClick(name, index)
+    })
+  }
+  // chart.on('guide-region:click', ev => console.log(ev))
 }
 export default caseAcceptNumChart

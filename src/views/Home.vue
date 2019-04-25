@@ -11,7 +11,7 @@
         </span>
       </div>
       <div class="dateAndUser">
-        <span> {{ test }} </span>
+        <timeDisplay/>
         <span> {{ userName }} </span>
       </div>
     </div>
@@ -31,7 +31,7 @@
           <!-- 若展示内容行数大于8，则滚动 -->
           <div class="tableBody" v-if="importantEvents.length>=8">
             <!-- rollContent 为自定义的滚动组件 -->
-            <test :height='44' :dLength=importantEvents.length :time='3000' :lineNum='8' >
+            <tableRolling :height='44' :dLength=importantEvents.length :time='3000' :lineNum='8' >
               <div slot="slide">
                 <div class="tableTr clearfix" v-for="(item, index) in importantEvents" :key="index" :class="{eventNumberLine: index % 2 === 1}">
                   <span class="once" > {{ item.laiYuan }} </span>
@@ -46,7 +46,7 @@
                   <span class="once" > {{ item.zhuangTai }} </span>
                 </div>
               </div>
-            </test>
+            </tableRolling>
           </div>
           <!-- 若展示内容行数小于8，展示全部；展示内容为空时，显示'暂无重点关注事件' -->
           <div class="tableBody" v-if="importantEvents.length<8" :class="{noneContent:importantEvents.length===0}">
@@ -89,7 +89,7 @@
             <div class="type" v-for="(item,index) in legalAdviceData.dat" :key="index">
               <div class="name"> {{ item.name }} </div>
               <div class="rate">
-                <div class="rated" :style="{width:item.rate * 100 + '%'}"></div>
+                <div class="rated" :style="{width:item.rate * 100 + '%', transition: 'width 1s' }"></div>
               </div>
               <div class="num">
                 {{ item.value }}
@@ -193,8 +193,11 @@
             </div>
             <div class="dataView">
               <span class="number">
+                <span class="status">当前</span>
                 {{ azbjData.jianShu }}
-                <span class="unit">件</span>
+                <!-- <ICountUp :startVal="ICountUp.startVal" :endVal="7188" :decimals="ICountUp.decimals"
+                :duration="ICountUp.duration" :options="ICountUp.options"/> -->
+                <span class="unit">人</span>
               </span>
               <div class="contrast"  v-if="azbjData.biJiaoZ!==''">
                 <div class="arrow" :class="{add:azbjData.biJiaoZ > 0, sub:azbjData.biJiaoZ <= 0}">
@@ -208,6 +211,7 @@
             </div>
           </div>
           <div class="boxContent">
+            <div class="dividingLine"></div>
             <div class="typeContent" v-for="(item,index) in azbjData.dat" :key="index" :class="'typeContent' + (index + 1)">
               <div class="icon" :class="'icon' + (index + 1)"></div>
               <div class="textContent">
@@ -256,6 +260,12 @@
 
       </div>
     </div>
+    <!-- 底部遮罩 -->
+    <div class="footerMask"></div>
+    <!-- 右侧遮罩 -->
+    <div class="rightMask"></div>
+    <!-- 左侧遮罩 -->
+    <div class="leftMask"></div>
 
     <!-- 地图展示区域 -->
     <div class="mapArea">
@@ -268,7 +278,6 @@
         <markers :data="markerData" @markerClick="markerClick"></markers>
         <popup :showPopup="showPopup" :laglng="popupPosition" :htmlContent="popupHtmlContent" :closeOnClick="false" ></popup>
       </mapview>
-
     </div>
 
     <!-- 人民调解下钻页 -->
@@ -277,23 +286,38 @@
 </template>
 
 <script>
-import { getCustomDate } from '../plugins/dateFormat'
-import test from '../components/test.vue'
+import tableRolling from '@/components/tableRollingControl.vue'
 import mediation from './Mediation.vue'
 import { mapActions, mapGetters } from 'vuex'
 import { homePageCount, mapData } from '@/api.js'
 import image from '@/imageBase64.js'
+import timeDisplay from '@/components/timeDisplay.vue'
 import { setTimeout } from 'timers'
+import ICountUp from 'vue-countup-v2'
 
 export default {
   name: 'home',
   components: {
-    test,
-    mediation
+    tableRolling,
+    mediation,
+    timeDisplay,
+    ICountUp
   },
   data () {
     return {
-      zhangmingmin: 'zhangmingmin',
+      ICountUp: {
+        startVal: 0,
+        decimals: 0,
+        duration: 2,
+        options: {
+          useEasing: true,
+          useGrouping: true,
+          separator: ',',
+          decimal: '.',
+          prefix: '',
+          suffix: ''
+        }
+      }, // 数字滚动相关配置
       popupHtmlContent: '',
       centerPosition: [121.442054, 31.14045],
       popupPosition: [121.442054, 31.14045],
@@ -314,14 +338,14 @@ export default {
       },
       mediationColor: ['#6E56FD', '#EEBC25', '#E33998', '#009CD9'], // 页面右侧人民调解环形图颜色顺序
       legalAidColor: ['#009CD9', '#E33998', '#EEBC25', '#6E56FD'], // 页面右侧法律援助环形图颜色顺序
-      allEventsSelectDefault: 1, // 底部下拉框默认选择 全部事件
+      allEventsSelectDefault: 0, // 底部下拉框默认选择 全部事件
       allEventsSelect: [ // 底部事件类下拉框选项
         {
-          label: '全部事件',
+          label: '显示全部事件',
           value: 1
         },
         {
-          label: '隐藏全部',
+          label: '隐藏全部事件',
           value: 0
         },
         {
@@ -333,14 +357,14 @@ export default {
           value: 3
         }
       ],
-      allOrgSelectDefault: 'YJ0205', // 底部下拉框默认选择全部机构
+      allOrgSelectDefault: 'hiddenIcon', // 底部下拉框默认选择全部机构
       allOrgSelect: [ // 底部机构类下拉框选项
         {
-          label: '全部机构',
+          label: '显示全部机构',
           value: 'YJ0205'
         },
         {
-          label: '隐藏全部',
+          label: '隐藏全部机构',
           value: 'hiddenIcon'
         },
         {
@@ -360,7 +384,7 @@ export default {
           value: 'YJ0204'
         }
       ],
-      titleDateChecked: 0, // 头部默认选择今日数据
+      titleDateChecked: 2, // 头部默认选择今日数据
       titleDateSelect: [ // 头部日期选择
         { label: '今日', value: 'YJ0001' },
         { label: '本月', value: 'YJ0002' },
@@ -386,23 +410,24 @@ export default {
       this.getMapData(time, this.allOrgSelectDefault, this.allEventsSelectDefault)
       this.titleDateChecked = index
     },
+
+    // 底部全部事件下拉框变化触发函数
     changeMapEventData (value) {
       this.getMapData(this.titleDateSelect[this.titleDateChecked].value, this.allOrgSelectDefault, value)
     },
+
+    // 底部全部机构下拉框变化触发函数
     changeMapOrgData (value) {
       this.showPopup = false
       this.getMapData(this.titleDateSelect[this.titleDateChecked].value, value, this.allEventsSelectDefault)
     },
-    setTitleDate () {
-      this.titleDate = getCustomDate(new Date(), 'default')
-      console.log(getCustomDate(new Date(), 'default'))
-    },
+
+    // 环形图的颜色控制
     iconColor (colorName, index) {
       return colorName[(index % colorName.length)]
     },
-    callback () {
-      alert('value')
-    },
+
+    // marker点击触发事件（渲染popup弹出框）
     markerClick (data) {
       console.log(data)
       this.showPopup = true
@@ -461,6 +486,8 @@ export default {
         }, 100)
       }
     },
+
+    // 改变vuex中控制下钻页面显示与隐藏的状态值
     ...mapActions('mediationStore', [
       'isDisplayMedia'
     ]),
@@ -489,7 +516,12 @@ export default {
 
       // 安置帮教数据
       this.azbjData = res.data.data.anZhiBJSYJS
-      this.legalAidData.dat = this.legalAidData.dat.length === 0 ? [{ name: '帮教-在册', value: 0 }, { name: '重新犯罪人员', value: 0 }, { name: '矫正-在册', value: 0 }, { name: '再犯人员', value: 0 }] : this.legalAidData.dat
+      this.azbjData.dat = this.azbjData.dat.length === 0 ? [{ name: '帮教-在册', value: 0 }, { name: '矫正-在册', value: 0 }, { name: '再犯人员', value: 0 }, { name: '重新犯罪人员', value: 0 }] : this.azbjData.dat
+      let exchange1 = this.azbjData.dat[1]
+      this.azbjData.dat[1] = this.azbjData.dat[3]
+      let exchange2 = this.azbjData.dat[2]
+      this.azbjData.dat[3] = exchange2
+      this.azbjData.dat[2] = exchange1
     },
 
     // 请求地图数据
@@ -534,17 +566,17 @@ export default {
     }
   },
   computed: {
+
+    // 获得vuex中控制下钻页面状态的值
     ...mapGetters('mediationStore', {
       mediaDisplay: 'mediationDisplay'
-    }),
-    test () {
-      return this.titleDate
-    }
+    })
   },
   created () {},
   mounted () {
-    this.setTitleDate()
+    // 请求首页统计数据
     this.homePageCount({ time: this.titleDateSelect[this.titleDateChecked].value })
+    // 请求首页地图数据
     this.getMapData(this.titleDateSelect[this.titleDateChecked].value, this.allOrgSelectDefault, this.allEventsSelectDefault)
   },
   updated () {
@@ -607,6 +639,8 @@ export default {
     display: none;
   }
 }
+
+// map中的popup弹出框的样式修改
 .mapboxgl-popup {
   top: -25px;
   left: 3px;

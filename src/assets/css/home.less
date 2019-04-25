@@ -69,15 +69,21 @@
       display: flex;
       padding: 0 20px;
       justify-content: space-between;
+      .timeDisplay {
+        font-size: 18px;
+        font-family: MicrosoftYaHei;
+        font-weight: 400;
+        color: rgba(25,200,226,1);
+        line-height: 100px;
+        margin-left: 20px;
+      }
       span {
         display: inline-block;
         font-size: 18px;
         line-height: 100px;
         color: rgba(25,200,226,1);
         font-weight: 400;
-        &:nth-child(2) {
-          text-align: right;
-        }
+        margin-right: 20px;
       }
     }
   }
@@ -296,6 +302,15 @@
           display: flex;
           flex-wrap: wrap;
           padding-left: 20px;
+          position: relative;
+          .dividingLine {
+            position: absolute;
+            border-left: 2px #0a3151 dashed ;
+            top: 15%;
+            left: 50%;
+            bottom: 5%;
+            
+          }
           .typeContent {
             flex: 1;
             min-width: 150px;
@@ -307,16 +322,16 @@
               width: 55px;
               height: 50px;
               &.icon1 {
-                background: url('../image/ZFZ.png') 40% 60% no-repeat;
+                background: url('../image/BJ-ZC.png') 40% 60% no-repeat;
               }
               &.icon2 {
-                background: url('../image/BJ-ZC.png') 40% 60% no-repeat;
+                background: url('../image/JZ-ZC.png') 40% 60% no-repeat;
               }
               &.icon3 {
                 background: url('../image/CXFZ.png') 40% 60% no-repeat;
               }
               &.icon4 {
-                background: url('../image/JZ-ZC.png') 40% 60% no-repeat;
+                background: url('../image/ZFZ.png') 40% 60% no-repeat;
               }
             }
             .textContent {
@@ -419,6 +434,34 @@
       }
     }
   }
+  .rightMask {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    width: 500px;
+    top: 0;
+    right: 0;
+    background: url('../image/right.png')  no-repeat;
+    background-size: cover;
+    // border: 1px white solid;
+  }
+  .leftMask {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    width: 540px;
+    top: 0;
+    left: 0;
+    background: url('../image/left.png')  no-repeat;
+  }
+  .footerMask {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background: url('../image/bottom.png')  no-repeat;
+  }
 
   //侧边栏公共样式
   .boxTitle {
@@ -452,6 +495,11 @@
         font-weight: 400;
         color: rgba(25,200,226,1);
         line-height: 47px;
+        .status{
+          color: rgba(25,200,226,1);
+          font-size: 14px;
+          margin-right: 5px;
+        }
         .unit {
           font-size: 16px;
           font-family: MicrosoftYaHei;

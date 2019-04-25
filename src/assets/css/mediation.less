@@ -9,11 +9,12 @@
   min-height: 1080px;
   min-width: 1920px;
   background:rgba(7,7,7,0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
   .displayArea {
-    position: absolute;
+    position: relative;
     z-index: 6;
-    right: 20px;
-    top: 90px;
     min-height: 910px;
     min-width: 1600px;
     background: url('../image/mediaBackground.png') no-repeat;
@@ -170,6 +171,12 @@
         display: flex;
         justify-content: space-between;
         .typeRanking {
+          .noTypeRakingData {
+            color: rgb(96, 151, 177);
+            text-align: center;
+            line-height: 200px;
+            font-size: 20px;
+          }
           flex: 400;
           .typeContent {
             display: flex;
