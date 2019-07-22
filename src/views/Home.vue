@@ -71,7 +71,7 @@
             </div>
             <div class="dataView">
               <span class="number">
-                {{ legalAdviceData.jianShu }}
+                {{legalAdviceData.jianShu}}
                 <span class="unit">次</span>
               </span>
               <div class="contrast" v-if="legalAdviceData.biJiaoZ!==''">
@@ -293,15 +293,15 @@ import { homePageCount, mapData } from '@/api.js'
 import image from '@/imageBase64.js'
 import timeDisplay from '@/components/timeDisplay.vue'
 import { setTimeout } from 'timers'
-import ICountUp from 'vue-countup-v2'
+// import ICountUp from 'vue-countup-v2'
 
 export default {
   name: 'home',
   components: {
     tableRolling,
     mediation,
-    timeDisplay,
-    ICountUp
+    timeDisplay
+    // ICountUp 暂未使用数字滚动，会出现字体拥挤的情况
   },
   data () {
     return {
@@ -338,7 +338,7 @@ export default {
       },
       mediationColor: ['#6E56FD', '#EEBC25', '#E33998', '#009CD9'], // 页面右侧人民调解环形图颜色顺序
       legalAidColor: ['#009CD9', '#E33998', '#EEBC25', '#6E56FD'], // 页面右侧法律援助环形图颜色顺序
-      allEventsSelectDefault: 0, // 底部下拉框默认选择 全部事件
+      allEventsSelectDefault: 0, // 底部下拉框默认选择 隐藏全部事件
       allEventsSelect: [ // 底部事件类下拉框选项
         {
           label: '显示全部事件',
@@ -357,7 +357,7 @@ export default {
           value: 3
         }
       ],
-      allOrgSelectDefault: 'hiddenIcon', // 底部下拉框默认选择全部机构
+      allOrgSelectDefault: 'hiddenIcon', // 底部下拉框默认选择隐藏全部机构
       allOrgSelect: [ // 底部机构类下拉框选项
         {
           label: '显示全部机构',
@@ -536,16 +536,26 @@ export default {
         this.heatMapData = res.data.data.reLiTSJ
         this.heatMapData.map((x) => {
           x.value = x.shuLiang
+          x.lat = x.jingDU
+          x.lng = x.weiDu
           delete x.shuLiang
+          delete x.jingDU
+          delete x.weiDu
         })
       }
       // 机构地图数据
       if (orgChecked !== 'hiddenIcon') {
         this.markerData = res.data.data.jiGouDTSJ
+        console.log(orgChecked)
         this.markerData.map((x) => {
           x.width = 48
           x.height = 48
-          x.base64 = image[x.leiXing]
+          x.lat = x.jingDu
+          x.lng = x.weiDu
+          x.base64 = image[x.leixing]
+          console.log(x)
+          delete x.jingDU
+          delete x.weiDu
         })
       } else {
         this.markerData = []
@@ -558,7 +568,11 @@ export default {
         this.importantEvents.map((x) => {
           x.width = 78
           x.height = 72
+          x.lat = x.jingDu
+          x.lng = x.weiDu
           x.base64 = image.zhongdianGZSJ
+          delete x.jingDU
+          delete x.weiDu
           this.markerData.push(x)
         })
         this.markerData = this.markerData.concat(this.importantEvents)
