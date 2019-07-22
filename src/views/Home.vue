@@ -195,8 +195,6 @@
               <span class="number">
                 <span class="status">当前</span>
                 {{ azbjData.jianShu }}
-                <!-- <ICountUp :startVal="ICountUp.startVal" :endVal="7188" :decimals="ICountUp.decimals"
-                :duration="ICountUp.duration" :options="ICountUp.options"/> -->
                 <span class="unit">人</span>
               </span>
               <div class="contrast"  v-if="azbjData.biJiaoZ!==''">
@@ -273,7 +271,7 @@
         :map-config="{center:centerPosition, zoom:14, pitch:60, bearing:0}"
         :osm-config="{osmUrl: osmUrl , backgroundStyle: 'custombrightstyle'}"
         :map-types="['heatmap']"
-        :heatmap="heatMapData"
+        :heatmap="heatmap"
       >
         <markers :data="markerData" @markerClick="markerClick"></markers>
         <popup :showPopup="showPopup" :laglng="popupPosition" :htmlContent="popupHtmlContent" :closeOnClick="false" ></popup>
@@ -292,7 +290,6 @@ import { mapActions, mapGetters } from 'vuex'
 import { homePageCount, mapData } from '@/api.js'
 import image from '@/utils/imageBase64.js'
 import timeDisplay from '@/components/timeDisplay.vue'
-// import ICountUp from 'vue-countup-v2'
 
 export default {
   name: 'home',
@@ -300,23 +297,9 @@ export default {
     tableRolling,
     mediation,
     timeDisplay
-    // ICountUp 暂未使用数字滚动，会出现字体拥挤的情况
   },
   data () {
     return {
-      ICountUp: {
-        startVal: 0,
-        decimals: 0,
-        duration: 2,
-        options: {
-          useEasing: true,
-          useGrouping: true,
-          separator: ',',
-          decimal: '.',
-          prefix: '',
-          suffix: ''
-        }
-      }, // 数字滚动相关配置
       popupHtmlContent: '',
       centerPosition: [121.442054, 31.14045],
       popupPosition: [121.442054, 31.14045],
@@ -397,7 +380,9 @@ export default {
         '来源', '案件类型', '时间', '状态'
       ],
       importantEvents: [], // 重点关注事件
-      heatMapData: [], // 热力图数据
+      heatmap: {
+        data: []
+      }, // 热力图数据
       markerData: [] // 标记点数据
     }
   },
@@ -525,18 +510,18 @@ export default {
 
     // 请求地图数据
     async getMapData (dateChecked, orgChecked, eventChecked) {
-      this.heatMapData = []
+      this.heatmap.data = []
       this.markerData = []
       this.importantEvents = []
       let res = await mapData({ time: dateChecked, organizationtype: orgChecked })
 
       // 设置热力图数据
       if (eventChecked === 2 || eventChecked === 1) {
-        this.heatMapData = res.data.data.reLiTSJ
-        this.heatMapData.map((x) => {
+        this.heatmap.data = res.data.data.reLiTSJ
+        this.heatmap.data.map((x) => {
           x.value = x.shuLiang
-          x.lat = x.jingDU
-          x.lng = x.weiDu
+          x.lat = x.weiDu
+          x.lng = x.jingDU
           delete x.shuLiang
           delete x.jingDU
           delete x.weiDu
@@ -545,15 +530,13 @@ export default {
       // 机构地图数据
       if (orgChecked !== 'hiddenIcon') {
         this.markerData = res.data.data.jiGouDTSJ
-        console.log(orgChecked)
         this.markerData.map((x) => {
           x.width = 48
           x.height = 48
-          x.lat = x.jingDu
-          x.lng = x.weiDu
+          x.lat = x.weiDu
+          x.lng = x.jingDu
           x.base64 = image[x.leixing]
-          console.log(x)
-          delete x.jingDU
+          delete x.jingDu
           delete x.weiDu
         })
       } else {
@@ -567,10 +550,10 @@ export default {
         this.importantEvents.map((x) => {
           x.width = 78
           x.height = 72
-          x.lat = x.jingDu
-          x.lng = x.weiDu
+          x.lat = x.weiDu
+          x.lng = x.jingDu
           x.base64 = image.zhongdianGZSJ
-          delete x.jingDU
+          delete x.jingDu
           delete x.weiDu
           this.markerData.push(x)
         })
