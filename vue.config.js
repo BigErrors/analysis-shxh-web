@@ -24,15 +24,7 @@ module.exports = (() => {
       port: 8888,
       https: false,
       hotOnly: false,
-      proxy: {
-        '/xuHuiWisdomJustice/V1.0.0': {
-          target: 'http://192.168.22.63:8810',
-          changeOrigin: true
-          // pathRewrite: {
-          //   '^/emergency': '/emergency'   //重写接口
-          //   }
-        }
-      },
+      proxy: {},
       before: app => {}
     }
   }
