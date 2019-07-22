@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { getCustomDate } from '@/plugins/dateFormat'
+import { getCustomDate } from '@/utils/dateFormat'
 export default {
   name: 'timeTest',
   data () {
