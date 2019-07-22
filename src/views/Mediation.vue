@@ -89,8 +89,8 @@
 
 <script>
 import { mapActions } from 'vuex'
-import caseAcceptNumChart from '@/components/caseAcceptNumChart'
-import caseAcceptTrendChart from '@/components/caseAcceptTrendChart'
+import caseAcceptNumChart from '@/utils/caseAcceptNumChart'
+import caseAcceptTrendChart from '@/utils/caseAcceptTrendChart'
 import { renminTJData } from '@/api.js'
 export default {
   name: 'mediation',

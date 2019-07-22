@@ -287,12 +287,11 @@
 
 <script>
 import tableRolling from '@/components/tableRollingControl.vue'
-import mediation from './Mediation.vue'
+import mediation from '@/views/Mediation.vue'
 import { mapActions, mapGetters } from 'vuex'
 import { homePageCount, mapData } from '@/api.js'
-import image from '@/imageBase64.js'
+import image from '@/utils/imageBase64.js'
 import timeDisplay from '@/components/timeDisplay.vue'
-import { setTimeout } from 'timers'
 // import ICountUp from 'vue-countup-v2'
 
 export default {
