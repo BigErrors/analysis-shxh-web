@@ -18,7 +18,7 @@
     "scss": "^0.2.4",
     "vue": "^2.6.6",
     "vue-g2": "^1.1.2",
-    "vue-mapboxgl-components": "^0.1.24",
+    "vue-mapboxgl-components": "^1.2.10",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1",
     "countup.js": "1.9.3",
