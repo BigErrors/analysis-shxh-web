@@ -1,29 +1,46 @@
-# analysis-xuhui
+# oa-wjs-sh/analysis-shxh-web
 
-## Project setup
+### 安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 开发环境运行
 ```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
+yarn serve
 ```
 
-### Run your tests
+### 构建生产环境代码
 ```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 基于xx分支构建镜像
+```
+<!-- 切换xx分支 -->
+git checkout <分支名称>
+<!-- 安装依赖 -->
+yarn install
+<!-- 构建镜像 -->
+yarn build-image <会执行两个命令yarn build && docker build -t 192.168.93.172/oa-wjs-sh/analysis-shxh-web:latest ./docker>
+```
+
+### 修改镜像tag
+```
+docker tag 192.168.93.172/oa-wjs-sh/analysis-shxh-web:latest 192.168.93.172/oa-wjs-sh/analysis-shxh-web:<版本号>
+```
+
+### 将镜像推送到私有仓库
+```
+docker push 192.168.93.172/oa-wjs-sh/analysis-shxh-web:<版本号>
+```
+
+### 从私有仓库拉取指定版本镜像
+```
+docker pull 192.168.93.172/oa-wjs-sh/analysis-shxh-web:<版本号>
+```
+
+### 将镜像启动为容器
+```
+docker run --name=analysis-shxh-web --restart=always -d -p 8083:80 -e LOCATION='/xuHuiWisdomJustice\/V1.0.0' -e PROXY_PASS='http:\/\/192.168.93.70:8083' 192.168.93.172/oa-wjs-sh/analysis-shxh-web:<版本号>
+```
