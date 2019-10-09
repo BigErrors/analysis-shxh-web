@@ -1,0 +1,5455 @@
+{
+  "code": 1,
+  "message": "数据请求成功",
+  "data": {
+      "reLiTSJ": [
+          {
+              "weiDu": "31.191445",
+              "jingDU": "121.445806",
+              "shuLiang": 65
+          },
+          {
+              "weiDu": "31.171361",
+              "jingDU": "121.451291",
+              "shuLiang": 5
+          },
+          {
+              "weiDu": "31.197447",
+              "jingDU": "121.463501",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.169049",
+              "jingDU": "121.428848",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.148956",
+              "jingDU": "121.451388",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.171646",
+              "jingDU": "121.429833",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.179681",
+              "jingDU": "121.414983",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.198273",
+              "jingDU": "121.466532",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.197679",
+              "jingDU": "121.450234",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.126579",
+              "jingDU": "121.446199",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.204151",
+              "jingDU": "121.458402",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.147428",
+              "jingDU": "121.436404",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.126621",
+              "jingDU": "121.447333",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.1932",
+              "jingDU": "121.441737",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.171083",
+              "jingDU": "121.426134",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.191858",
+              "jingDU": "121.442777",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.158435",
+              "jingDU": "121.423939",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.191064",
+              "jingDU": "121.449685",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.176331",
+              "jingDU": "121.44465",
+              "shuLiang": 8
+          },
+          {
+              "weiDu": "31.12278",
+              "jingDU": "121.458938",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.138235",
+              "jingDU": "121.451992",
+              "shuLiang": 99
+          },
+          {
+              "weiDu": "31.168228",
+              "jingDU": "121.449121",
+              "shuLiang": 10
+          },
+          {
+              "weiDu": "31.172397",
+              "jingDU": "121.457985",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.184612",
+              "jingDU": "121.447259",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.199632",
+              "jingDU": "121.466482",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.136173",
+              "jingDU": "121.4411409",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.142323",
+              "jingDU": "121.429615",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.170064",
+              "jingDU": "121.419427",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.193781",
+              "jingDU": "121.465885",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.185351",
+              "jingDU": "121.445541",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.148449",
+              "jingDU": "121.43524",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.198452",
+              "jingDU": "121.455443",
+              "shuLiang": 17
+          },
+          {
+              "weiDu": "31.120341",
+              "jingDU": "121.447892",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.17891653",
+              "jingDU": "121.402798",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.210746",
+              "jingDU": "121.444174",
+              "shuLiang": 5
+          },
+          {
+              "weiDu": "31.12236473",
+              "jingDU": "121.4490849",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.168285",
+              "jingDU": "121.454712",
+              "shuLiang": 10
+          },
+          {
+              "weiDu": "31.190811",
+              "jingDU": "121.437199",
+              "shuLiang": 788
+          },
+          {
+              "weiDu": "31.174003",
+              "jingDU": "121.456806",
+              "shuLiang": 12
+          },
+          {
+              "weiDu": "31.12372203",
+              "jingDU": "121.4627607",
+              "shuLiang": 34
+          },
+          {
+              "weiDu": "31.141779",
+              "jingDU": "121.443808",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.16068799194791",
+              "jingDU": "121.45167585498815",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.14656",
+              "jingDU": "121.432583",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.201305",
+              "jingDU": "121.457917",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.193592",
+              "jingDU": "121.448187",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.202023",
+              "jingDU": "121.461939",
+              "shuLiang": 5
+          },
+          {
+              "weiDu": "31.212101",
+              "jingDU": "121.451606",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.14507",
+              "jingDU": "121.449528",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.217746",
+              "jingDU": "121.454859",
+              "shuLiang": 8
+          },
+          {
+              "weiDu": "31.183095",
+              "jingDU": "121.447129",
+              "shuLiang": 55
+          },
+          {
+              "weiDu": "31.1394158",
+              "jingDU": "121.4425767",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.205755",
+              "jingDU": "121.437853",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.15317908",
+              "jingDU": "121.4205168",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.118948",
+              "jingDU": "121.446928",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.179989",
+              "jingDU": "121.418587",
+              "shuLiang": 5
+          },
+          {
+              "weiDu": "31.17172",
+              "jingDU": "121.441248",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.155831",
+              "jingDU": "121.414843",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.179826",
+              "jingDU": "121.454204",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.131647",
+              "jingDU": "121.451513",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.17694093",
+              "jingDU": "121.4279938",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.136831",
+              "jingDU": "121.436297",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.19657",
+              "jingDU": "121.467576",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.170696",
+              "jingDU": "121.447241",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.135765",
+              "jingDU": "121.433464",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.195048",
+              "jingDU": "121.467074",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.185318",
+              "jingDU": "121.451813",
+              "shuLiang": 15
+          },
+          {
+              "weiDu": "31.192475",
+              "jingDU": "121.444804",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.144984",
+              "jingDU": "121.43155",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.219051",
+              "jingDU": "121.455873",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.19174804",
+              "jingDU": "121.4324869",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.189495",
+              "jingDU": "121.457096",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.155382",
+              "jingDU": "121.444528",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.13793439",
+              "jingDU": "121.4393782",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.152078",
+              "jingDU": "121.421469",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.172442",
+              "jingDU": "121.445678",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.18956716",
+              "jingDU": "121.3918139",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.166119",
+              "jingDU": "121.445962",
+              "shuLiang": 7
+          },
+          {
+              "weiDu": "31.21601614",
+              "jingDU": "121.4449623",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.1731",
+              "jingDU": "121.424214",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.134224",
+              "jingDU": "121.446588",
+              "shuLiang": 8
+          },
+          {
+              "weiDu": "31.185807",
+              "jingDU": "121.435909",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.155145",
+              "jingDU": "121.415962",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.158737",
+              "jingDU": "121.453949",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.183571",
+              "jingDU": "121.445999",
+              "shuLiang": 5
+          },
+          {
+              "weiDu": "31.206481",
+              "jingDU": "121.444315",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.16021902",
+              "jingDU": "121.4047726",
+              "shuLiang": 18
+          },
+          {
+              "weiDu": "31.14547236",
+              "jingDU": "121.4291725",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.136454",
+              "jingDU": "121.429221",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.198499",
+              "jingDU": "121.457991",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.208718",
+              "jingDU": "121.457925",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.148021",
+              "jingDU": "121.434165",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.178673127120327",
+              "jingDU": "121.40210800552416",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.139402",
+              "jingDU": "121.431395",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.135169",
+              "jingDU": "121.431238",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.194726064130265",
+              "jingDU": "121.44314670557782",
+              "shuLiang": 18
+          },
+          {
+              "weiDu": "31.194983",
+              "jingDU": "121.461172",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.17338",
+              "jingDU": "121.444284",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.202074",
+              "jingDU": "121.465429",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.196252",
+              "jingDU": "121.446159",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.174529",
+              "jingDU": "121.424035",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.139777",
+              "jingDU": "121.440992",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.166846",
+              "jingDU": "121.454902",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.138571",
+              "jingDU": "121.443606",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.188826",
+              "jingDU": "121.457345",
+              "shuLiang": 8
+          },
+          {
+              "weiDu": "31.14464956",
+              "jingDU": "121.4207826",
+              "shuLiang": 13
+          },
+          {
+              "weiDu": "31.16794",
+              "jingDU": "121.448974",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.180034",
+              "jingDU": "121.432634",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.154803",
+              "jingDU": "121.452319",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.16915209",
+              "jingDU": "121.446235",
+              "shuLiang": 10
+          },
+          {
+              "weiDu": "31.170836",
+              "jingDU": "121.439631",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.186626",
+              "jingDU": "121.451746",
+              "shuLiang": 8
+          },
+          {
+              "weiDu": "31.20527",
+              "jingDU": "121.456829",
+              "shuLiang": 12
+          },
+          {
+              "weiDu": "31.176462",
+              "jingDU": "121.442578",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.150099",
+              "jingDU": "121.429851",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.195038",
+              "jingDU": "121.463561",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.160904",
+              "jingDU": "121.426271",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.172012",
+              "jingDU": "121.452232",
+              "shuLiang": 9
+          },
+          {
+              "weiDu": "31.13832135",
+              "jingDU": "121.4432958",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.14037632",
+              "jingDU": "121.4346341",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.13986",
+              "jingDU": "121.447181",
+              "shuLiang": 7
+          },
+          {
+              "weiDu": "31.194791",
+              "jingDU": "121.43043",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.143078",
+              "jingDU": "121.437504",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.167947",
+              "jingDU": "121.449963",
+              "shuLiang": 5
+          },
+          {
+              "weiDu": "31.1388086282862",
+              "jingDU": "121.45251659169122",
+              "shuLiang": 8
+          },
+          {
+              "weiDu": "31.119597",
+              "jingDU": "121.460567",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.200047",
+              "jingDU": "121.457994",
+              "shuLiang": 14
+          },
+          {
+              "weiDu": "31.167426",
+              "jingDU": "121.451623",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.211437",
+              "jingDU": "121.456257",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.1441154",
+              "jingDU": "121.4242849",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.16036",
+              "jingDU": "121.431482",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.14438943286976",
+              "jingDU": "121.4565542979924",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.184911",
+              "jingDU": "121.43205",
+              "shuLiang": 162
+          },
+          {
+              "weiDu": "31.13637651",
+              "jingDU": "121.4336115",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.182037",
+              "jingDU": "121.425102",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.157629",
+              "jingDU": "121.447204",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.162574",
+              "jingDU": "121.413669",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.13509531",
+              "jingDU": "121.4283661",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.13638018",
+              "jingDU": "121.4402254",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.188299",
+              "jingDU": "121.464244",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.11747143",
+              "jingDU": "121.4579103",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.190825",
+              "jingDU": "121.432102",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.179107",
+              "jingDU": "121.44889",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.1217763",
+              "jingDU": "121.4618911",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.143716",
+              "jingDU": "121.451704",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.137808",
+              "jingDU": "121.44149",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.213766",
+              "jingDU": "121.457846",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.186954",
+              "jingDU": "121.455101",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.215068",
+              "jingDU": "121.451732",
+              "shuLiang": 13
+          },
+          {
+              "weiDu": "31.165656",
+              "jingDU": "121.429806",
+              "shuLiang": 8
+          },
+          {
+              "weiDu": "31.154972",
+              "jingDU": "121.453976",
+              "shuLiang": 8
+          },
+          {
+              "weiDu": "31.166951",
+              "jingDU": "121.43246",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.16245909",
+              "jingDU": "121.4083609",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.217384957723",
+              "jingDU": "121.45916804183985",
+              "shuLiang": 189
+          },
+          {
+              "weiDu": "31.159840209885694",
+              "jingDU": "121.44519413158092",
+              "shuLiang": 40
+          },
+          {
+              "weiDu": "31.16915209",
+              "jingDU": "121.446235",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.174196",
+              "jingDU": "121.422763",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.168218",
+              "jingDU": "121.436924",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.12611297",
+              "jingDU": "121.4474637",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.169681",
+              "jingDU": "121.45175",
+              "shuLiang": 4
+          },
+          {
+              "weiDu": "31.152018",
+              "jingDU": "121.435141",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.192948",
+              "jingDU": "121.430194",
+              "shuLiang": 192
+          },
+          {
+              "weiDu": "31.18500375894596",
+              "jingDU": "121.44481628092748",
+              "shuLiang": 56
+          },
+          {
+              "weiDu": "31.13729581",
+              "jingDU": "121.4464572",
+              "shuLiang": 3
+          },
+          {
+              "weiDu": "31.21027",
+              "jingDU": "121.459591",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.1231173547981",
+              "jingDU": "121.46703382407176",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.13999018",
+              "jingDU": "121.4290672",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.144787",
+              "jingDU": "121.421106",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.139383030194",
+              "jingDU": "121.44479493718856",
+              "shuLiang": 10
+          },
+          {
+              "weiDu": "31.14037632",
+              "jingDU": "121.4346341",
+              "shuLiang": 5
+          },
+          {
+              "weiDu": "31.133925",
+              "jingDU": "121.444179",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.152247",
+              "jingDU": "121.458041",
+              "shuLiang": 1
+          },
+          {
+              "weiDu": "31.155732",
+              "jingDU": "121.455876",
+              "shuLiang": 10
+          },
+          {
+              "weiDu": "31.191635",
+              "jingDU": "121.46156",
+              "shuLiang": 2
+          },
+          {
+              "weiDu": "31.179757",
+              "jingDU": "121.4503",
+              "shuLiang": 6
+          },
+          {
+              "weiDu": "31.17841189",
+              "jingDU": "121.42691",
+              "shuLiang": 7
+          }
+      ],
+      "jiGouDTSJ": [
+          {
+              "id_": "1919f623c59b4e2bb1a1324a7e7d658a",
+              "mingZi": "徐汇区司法局",
+              "weiDu": "31.194616421584",
+              "jingDu": "121.44326651618",
+              "dianHua": "021-64872222",
+              "diZhi": "漕溪北路336号新楼520室",
+              "renYuan": 2251,
+              "leixing": "justicebureau"
+          },
+          {
+              "id_": "2266b11cf51744f1ba775ebae93e4d84",
+              "mingZi": "徐汇区司法局长桥司法所",
+              "weiDu": "31.13832135",
+              "jingDu": "121.4432958",
+              "dianHua": "64100554-1071",
+              "diZhi": "罗秀路616号107室",
+              "renYuan": 288,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11cd3cd4cbe8ffe9f8a332807df",
+              "mingZi": "徐汇区司法局枫林路司法所",
+              "weiDu": "31.19552652",
+              "jingDu": "121.469665",
+              "dianHua": "33638030",
+              "diZhi": "小木桥路680号2号609",
+              "renYuan": 151,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11c9c064b5ba59a309bd0c12c35",
+              "mingZi": "徐汇区司法局虹梅路司法所",
+              "weiDu": "31.17851082",
+              "jingDu": "121.4025135",
+              "dianHua": "64018561",
+              "diZhi": "虹梅路2019号",
+              "renYuan": 62,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11c6c0e471cbd49fcffbff0db99",
+              "mingZi": "徐汇区司法局天平路司法所",
+              "weiDu": "31.20918609",
+              "jingDu": "121.4451307",
+              "dianHua": "64662711",
+              "diZhi": "徐汇区余庆路21号",
+              "renYuan": 117,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11cc0ff4b308d78c084f71875fd",
+              "mingZi": "徐汇区司法局徐家汇司法所",
+              "weiDu": "31.19768712",
+              "jingDu": "121.4524135",
+              "dianHua": "64417345",
+              "diZhi": "斜土路2431号",
+              "renYuan": 212,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11c22de44f8834d1e932b7e748d",
+              "mingZi": "徐汇区司法局华泾司法所",
+              "weiDu": "31.12372203",
+              "jingDu": "121.4627607",
+              "dianHua": "54828532",
+              "diZhi": "龙吴路2443号",
+              "renYuan": 102,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11ca0b94e9e8a05c75468334a1e",
+              "mingZi": "徐汇区司法局龙华司法所",
+              "weiDu": "31.17462594",
+              "jingDu": "121.4555623",
+              "dianHua": "",
+              "diZhi": "",
+              "renYuan": 82,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11cb4b741ce91197daab17f9599",
+              "mingZi": "徐汇区司法局凌云路司法所",
+              "weiDu": "31.14464956",
+              "jingDu": "121.4207826",
+              "dianHua": "64537108",
+              "diZhi": "虹梅南路108号",
+              "renYuan": 174,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11c783946cd82e24d27a816a9f9",
+              "mingZi": "徐汇区司法局田林司法所",
+              "weiDu": "31.18604143103036",
+              "jingDu": "121.45746678145825",
+              "dianHua": "64842809",
+              "diZhi": "柳州路555号",
+              "renYuan": 126,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11c93b64e8fbe439d596effc3df",
+              "mingZi": "徐汇区司法局康健司法所",
+              "weiDu": "31.1623414",
+              "jingDu": "121.4296847",
+              "dianHua": "54201896",
+              "diZhi": "浦北路268号",
+              "renYuan": 216,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11c52d8424e9e456cae19636e43",
+              "mingZi": "徐汇区司法局湖南路司法所",
+              "weiDu": "31.21768685",
+              "jingDu": "121.4528024",
+              "dianHua": "64375804",
+              "diZhi": "乌鲁木齐中路318号",
+              "renYuan": 103,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11cdb7f4fa3b29eb0874a3150b6",
+              "mingZi": "徐汇区司法局漕河泾司法所",
+              "weiDu": "31.17200755",
+              "jingDu": "121.436165",
+              "dianHua": "64827334",
+              "diZhi": "康健路65号",
+              "renYuan": 232,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "2266b11cc38746ee8ee8d36b7cf24a14",
+              "mingZi": "徐汇区司法局斜土路司法所",
+              "weiDu": "31.20683299",
+              "jingDu": "121.4701787",
+              "dianHua": "64161601",
+              "diZhi": "徐汇区正阳路36号",
+              "renYuan": 147,
+              "leixing": "justiceoffice"
+          },
+          {
+              "id_": "9d60a3e0e1a7492b999bc8dd76e7b3b1",
+              "mingZi": "上海市徐汇区人桥法律服务调解中心人民调解委员会",
+              "weiDu": "31.159840209885694",
+              "jingDu": "121.44519413158092",
+              "dianHua": "18353225809",
+              "diZhi": "石龙路411弄8号2号楼2层",
+              "renYuan": 12,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c6ce444ea457fbe838541992",
+              "mingZi": "上海市徐汇区联合人民调解委员会",
+              "weiDu": "31.184911",
+              "jingDu": "121.43205",
+              "dianHua": "54896264",
+              "diZhi": "文定路209号B座",
+              "renYuan": 17,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0824d43a3ae24164fdfbebaf4",
+              "mingZi": "上海市徐汇区湖南路街道工会劳动争议人民调解委员会",
+              "weiDu": "31.21676619",
+              "jingDu": "121.4453465",
+              "dianHua": "64336051",
+              "diZhi": "高邮路7号102室",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c9244aaabd96a1b5ec94aa4f",
+              "mingZi": "上海市徐汇区田林街道长春居民委员会人民调解委员会",
+              "weiDu": "31.182037",
+              "jingDu": "121.425102",
+              "dianHua": "64412756",
+              "diZhi": "宜山路518弄1号105室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0098841adb07fcca7ade56698",
+              "mingZi": "上海市徐汇区田林街道千鹤第五居民委员会人民调解委员会",
+              "weiDu": "31.179681",
+              "jingDu": "121.414983",
+              "dianHua": "64951072",
+              "diZhi": "桂林路595号102室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e04df241c38bd37becf6ff3768",
+              "mingZi": "上海市徐汇区徐家汇街道工会劳动争议人民调解委员会",
+              "weiDu": "31.191445",
+              "jingDu": "121.445806",
+              "dianHua": "64417357",
+              "diZhi": "斜土路2431号",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0be14461aaa2470fe950bf51b",
+              "mingZi": "上海市徐汇区龙华街道机场新村居民委员会人民调解委员会",
+              "weiDu": "31.167426",
+              "jingDu": "121.451623",
+              "dianHua": "64569398",
+              "diZhi": "龙华西路机场新村6号101室",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e051dd4f48849d0a29072da6a4",
+              "mingZi": "上海市徐汇区龙华街道汇龙居民委员会人民调解委员会",
+              "weiDu": "31.170696",
+              "jingDu": "121.447241",
+              "dianHua": "54106594",
+              "diZhi": "龙华路3208弄7号104A",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0688c4a2d81320a260842d6e8",
+              "mingZi": "上海市徐汇区医患纠纷人民调解委员会",
+              "weiDu": "31.19526",
+              "jingDu": "121.46555",
+              "dianHua": "64183356",
+              "diZhi": "零陵北路41号",
+              "renYuan": 12,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03b90481cb6a049d33cd4f71e",
+              "mingZi": "上海市徐汇区田林街道千鹤第六居民委员会人民调解委员会",
+              "weiDu": "31.188084531025986",
+              "jingDu": "121.42105433771314",
+              "dianHua": "64820778",
+              "diZhi": "钦州北路492弄1号102室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f9054f6b92fee191db917e2b",
+              "mingZi": "上海市徐汇区斜土路街道江南新村居民委员会人民调解委员会",
+              "weiDu": "31.191635",
+              "jingDu": "121.46156",
+              "dianHua": "64160796",
+              "diZhi": "大木桥路600号江南二村21号甲",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e08e3a44b8a56969da746e9b59",
+              "mingZi": "上海市徐汇区斜土路街道日晖六村第一居民委员会人民调解委员会",
+              "weiDu": "31.194983",
+              "jingDu": "121.461172",
+              "dianHua": "64436036",
+              "diZhi": "大木桥路434号日晖六村51号",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0934048f6b3b8af08936f3be8",
+              "mingZi": "上海市徐汇区斜土路街道肇嘉浜路第一居民委员会人民调解委员会",
+              "weiDu": "31.202074",
+              "jingDu": "121.465429",
+              "dianHua": "64043347",
+              "diZhi": "肇家浜路193弄54号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e003b14b78800c31de18c6df52",
+              "mingZi": "上海市徐汇区斜土路街道大木桥路第三居民委员会人民调解委员会",
+              "weiDu": "31.197447",
+              "jingDu": "121.463501",
+              "dianHua": "64037675",
+              "diZhi": "茶陵路345弄34号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e00b9f4acfb00061a8f5952e5d",
+              "mingZi": "上海市徐汇区斜土路街道日晖五村居民委员会人民调解委员会",
+              "weiDu": "31.198273",
+              "jingDu": "121.466532",
+              "dianHua": "64160539",
+              "diZhi": "茶陵路225弄7号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03a294dbb9eeb0d020ec32ebd",
+              "mingZi": "上海市徐汇区斜土路街道肇清居民委员会人民调解委员会",
+              "weiDu": "31.201305",
+              "jingDu": "121.457917",
+              "dianHua": "64033309",
+              "diZhi": "肇嘉浜路417弄4号101室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e024324febbe5b8ae5c99979e4",
+              "mingZi": "上海市徐汇区斜土路街道茶陵居民委员会人民调解委员会",
+              "weiDu": "31.199632",
+              "jingDu": "121.466482",
+              "dianHua": "64045616",
+              "diZhi": "瑞金南路458弄19号104室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e080424a93aaeb3ce08b1543ab",
+              "mingZi": "上海市徐汇区斜土路街道日晖七村居民委员会人民调解委员会",
+              "weiDu": "31.198499",
+              "jingDu": "121.457991",
+              "dianHua": "64030871",
+              "diZhi": "小木桥路223弄2号202室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c72d49658d08f0460d2115bc",
+              "mingZi": "上海市徐汇区枫林路街道东安苑居民委员会人民调解委员会",
+              "weiDu": "31.186268",
+              "jingDu": "121.455091",
+              "dianHua": "33689149",
+              "diZhi": "中山南二路777弄4号302室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0797a4615a1fc4d089beee536",
+              "mingZi": "上海市徐汇区凌云路街道梅陇八村居民委员会人民调解委员会",
+              "weiDu": "31.14304502",
+              "jingDu": "121.4313907",
+              "dianHua": "64105273",
+              "diZhi": "梅陇八村11号104室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e07a6741759803ad55176f8aa2",
+              "mingZi": "上海市徐汇区凌云路街道梅陇七村居民委员会人民调解委员会",
+              "weiDu": "31.14547236",
+              "jingDu": "121.4291725",
+              "dianHua": "64530718",
+              "diZhi": "梅陇七村47号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05e8d4499b58c857e69846c2e",
+              "mingZi": "上海市徐汇区凌云路街道梅陇六村居民委员会人民调解委员会",
+              "weiDu": "31.13879734",
+              "jingDu": "121.4261408",
+              "dianHua": "64776903",
+              "diZhi": "梅陇六村9号203室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f23741588a75dbb03e0bb110",
+              "mingZi": "上海市徐汇区凌云路街道梅陇五村居民委员会人民调解委员会",
+              "weiDu": "31.13999018",
+              "jingDu": "121.4290672",
+              "dianHua": "64536926",
+              "diZhi": "上中西路426号34号102室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e5024376ad692db143c92c73",
+              "mingZi": "上海市徐汇区长桥街道罗秀新村居民委员会人民调解委员会",
+              "weiDu": "31.133764",
+              "jingDu": "121.446377",
+              "dianHua": "64760469",
+              "diZhi": "罗秀路罗秀新村112号101室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e035da4e95a6d131449cfc34cb",
+              "mingZi": "上海市徐汇区长桥街道园南三村居民委员会人民调解委员会",
+              "weiDu": "31.141779",
+              "jingDu": "121.443808",
+              "dianHua": "64106450",
+              "diZhi": "龙川北路园南三村27号-1",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06e1748d2b1a85a08d917853b",
+              "mingZi": "上海市徐汇区长桥街道园南二村居民委员会人民调解委员会",
+              "weiDu": "31.14045",
+              "jingDu": "121.442054",
+              "dianHua": "64761849",
+              "diZhi": "龙川北路园南二村26号甲",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e00c06432aaad0c432c85872e0",
+              "mingZi": "上海市徐汇区华泾镇华臻居民委员会人民调解委员会",
+              "weiDu": "31.126579",
+              "jingDu": "121.446199",
+              "dianHua": "64966856",
+              "diZhi": "华发路407号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d28047bb87101a98366b3c44",
+              "mingZi": "上海市徐汇区华泾镇华泾光华居民委员会人民调解委员会",
+              "weiDu": "31.11747143",
+              "jingDu": "121.4579103",
+              "dianHua": "54821062",
+              "diZhi": "华展路55弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0abd745ad9bebe86b27878393",
+              "mingZi": "上海市徐汇区华泾镇沙家浜居民委员会人民调解委员会",
+              "weiDu": "31.16915209",
+              "jingDu": "121.446235",
+              "dianHua": "54823608",
+              "diZhi": "沙家浜路41号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e8764eefadf7c5f03c9b6c5e",
+              "mingZi": "上海市徐汇区华泾镇华建居民委员会人民调解委员会",
+              "weiDu": "31.12611297",
+              "jingDu": "121.4474637",
+              "dianHua": "54308998",
+              "diZhi": "老沪闵路1296弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0badb4d3ead4b58fab2f082f1",
+              "mingZi": "上海市徐汇区华泾镇华欣家园居民委员会人民调解委员会",
+              "weiDu": "31.119597",
+              "jingDu": "121.460567",
+              "dianHua": "64965056",
+              "diZhi": "龙吴路2418弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05c5149a5b5c23de0c0201815",
+              "mingZi": "上海市徐汇区华泾镇华泾绿苑居民委员会人民调解委员会",
+              "weiDu": "31.115922",
+              "jingDu": "121.45973",
+              "dianHua": "34631138",
+              "diZhi": "华济路1号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f5f74fd0b5fe3205525a5ada",
+              "mingZi": "上海市徐汇区长桥街道长桥三村第二居民委员会人民调解委员会",
+              "weiDu": "31.133925",
+              "jingDu": "121.444179",
+              "dianHua": "64766847",
+              "diZhi": "龙川路长桥三村29号201室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e010ed4d668e740befe0193a31",
+              "mingZi": "上海市徐汇区康健街道寿祥坊居民委员会人民调解委员会",
+              "weiDu": "31.15133",
+              "jingDu": "121.418922",
+              "dianHua": "54193194",
+              "diZhi": "桂林西街111弄4号201室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e04f384a50aebe38ba0ed4f015",
+              "mingZi": "上海市徐汇区康健街道长兴坊居民委员会人民调解委员会",
+              "weiDu": "31.155831",
+              "jingDu": "121.414843",
+              "dianHua": "54203919",
+              "diZhi": "桂林西街15弄1号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05732465d8322c7e42860b6b8",
+              "mingZi": "上海市徐汇区康健街道长顺海居民委员会人民调解委员会",
+              "weiDu": "31.155556",
+              "jingDu": "121.418653",
+              "dianHua": "54210569",
+              "diZhi": "桂林西街14弄1号102室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ea8f459baf6d8cf3ebb6910e",
+              "mingZi": "上海市徐汇区康健街道长青坊居民委员会人民调解委员会",
+              "weiDu": "31.154529",
+              "jingDu": "121.417609",
+              "dianHua": "54193925",
+              "diZhi": "桂林西街30弄17号201室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01e20482ba9b60c8494ac5d73",
+              "mingZi": "上海市徐汇区康健街道长虹坊居民委员会人民调解委员会",
+              "weiDu": "31.156029",
+              "jingDu": "121.417519",
+              "dianHua": "54203921",
+              "diZhi": "桂林西街11弄2号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e073c84c41b7e92ad1d39cff9f",
+              "mingZi": "上海市徐汇区康健街道桂林二居民委员会人民调解委员会",
+              "weiDu": "31.160787",
+              "jingDu": "121.424735",
+              "dianHua": "64849008",
+              "diZhi": "冠生园路西薛家宅108号",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a63340b1b0e96d45cec31c96",
+              "mingZi": "上海市徐汇区康健街道桂康居民委员会人民调解委员会",
+              "weiDu": "31.165521",
+              "jingDu": "121.419279",
+              "dianHua": "64844711",
+              "diZhi": "康健路363弄3号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c46e46cd89377707f6b75e11",
+              "mingZi": "上海市徐汇区康健街道康宁强居民委员会人民调解委员会",
+              "weiDu": "31.158075",
+              "jingDu": "121.427204",
+              "dianHua": "64837692",
+              "diZhi": "浦北路21弄3号103室",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a86c45a18a64606d4fd02854",
+              "mingZi": "上海市徐汇区华泾镇明丰居民委员会人民调解委员会",
+              "weiDu": "31.125114",
+              "jingDu": "121.451775",
+              "dianHua": "61284222",
+              "diZhi": "华发路99弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09880462eabe8d9bed0e6c9de",
+              "mingZi": "上海市徐汇区长桥街道园南一村居民委员会人民调解委员会",
+              "weiDu": "31.139777",
+              "jingDu": "121.440992",
+              "dianHua": "64778550",
+              "diZhi": "龙川北路园南一村1号103室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ed4f412ba8bb003ff69641c7",
+              "mingZi": "上海市徐汇区长桥街道长桥八村居民委员会人民调解委员会",
+              "weiDu": "31.13729581",
+              "jingDu": "121.4464572",
+              "dianHua": "64558978",
+              "diZhi": "罗秀路长桥八村30号102室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0467f422f8db9dcd11e02bb6e",
+              "mingZi": "上海市徐汇区长桥街道长桥七村居民委员会人民调解委员会",
+              "weiDu": "31.1394158",
+              "jingDu": "121.4425767",
+              "dianHua": "64766127",
+              "diZhi": "罗秀路长桥六村38号",
+              "renYuan": 13,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05679423091512ef3ec1f51d4",
+              "mingZi": "上海市徐汇区长桥街道长桥五村居民委员会人民调解委员会",
+              "weiDu": "31.135765",
+              "jingDu": "121.433464",
+              "dianHua": "61266588",
+              "diZhi": "上中路51弄6号101室",
+              "renYuan": 12,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e018124fa29d6c2c6adf4befb4",
+              "mingZi": "上海市徐汇区徐家汇街道乐山二三村居民委员会人民调解委员会",
+              "weiDu": "31.196622",
+              "jingDu": "121.430988",
+              "dianHua": "64477749",
+              "diZhi": "乐山路12弄32号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0950944ed9f1be53bed9ba00d",
+              "mingZi": "上海市徐汇区徐家汇街道乐山一村居民委员会人民调解委员会",
+              "weiDu": "31.19841",
+              "jingDu": "121.429438",
+              "dianHua": "64072374",
+              "diZhi": "番禺路801弄18号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0830a4f108664091f16a07148",
+              "mingZi": "上海市徐汇区徐家汇街道名园居民委员会人民调解委员会",
+              "weiDu": "31.188672",
+              "jingDu": "121.437811",
+              "dianHua": "64694620",
+              "diZhi": "南丹东路300弄8号102室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e00cf24ee184ecdb2071e60a0b",
+              "mingZi": "上海市徐汇区长桥街道长桥三村第一居民委员会人民调解委员会",
+              "weiDu": "31.14023468",
+              "jingDu": "121.4485734",
+              "dianHua": "64771994",
+              "diZhi": "龙川路长桥三村138号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05195455388afbd36761281f2",
+              "mingZi": "上海市徐汇区长桥街道长桥一村居民委员会人民调解委员会",
+              "weiDu": "31.136831",
+              "jingDu": "121.436297",
+              "dianHua": "64773142",
+              "diZhi": "上中路长桥一村66号",
+              "renYuan": 14,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d7bf4e819aa862bc038ee332",
+              "mingZi": "上海市徐汇区长桥街道长桥新二村居民委员会人民调解委员会",
+              "weiDu": "31.137808",
+              "jingDu": "121.44149",
+              "dianHua": "64774103",
+              "diZhi": "罗香路长桥新村50号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09d2f4a0e84b62d069a8d13d6",
+              "mingZi": "上海市徐汇区长桥街道长桥新村第一居民委员会人民调解委员会",
+              "weiDu": "31.138571",
+              "jingDu": "121.443606",
+              "dianHua": "64769974",
+              "diZhi": "上中路289弄1号107室",
+              "renYuan": 13,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e062254ea9b4ce905bad04ca31",
+              "mingZi": "上海市徐汇区长桥街道楼园居民委员会人民调解委员会",
+              "weiDu": "31.144984",
+              "jingDu": "121.43155",
+              "dianHua": "64234974",
+              "diZhi": "老沪闵路706弄16号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e024564886a341c3eb46de6b97",
+              "mingZi": "上海市徐汇区长桥街道体育花苑居民委员会人民调解委员会",
+              "weiDu": "31.142323",
+              "jingDu": "121.429615",
+              "dianHua": "64236516",
+              "diZhi": "老沪闵路728弄51号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09ea74364aba6cbd3ed5cbb53",
+              "mingZi": "上海市徐汇区徐家汇街道沈马居民委员会人民调解委员会",
+              "weiDu": "31.191911",
+              "jingDu": "121.441145",
+              "dianHua": "64281017",
+              "diZhi": "天钥桥路180弄8号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b380454487b0dcff60827c87",
+              "mingZi": "上海市徐汇区华泾镇华阳居民委员会人民调解委员会",
+              "weiDu": "31.12026954",
+              "jingDu": "121.4579831",
+              "dianHua": "54821508",
+              "diZhi": "龙吟路452弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e04b4840da86266005855924bc",
+              "mingZi": "上海市徐汇区华泾镇华泾五村居民委员会人民调解委员会",
+              "weiDu": "31.118948",
+              "jingDu": "121.446928",
+              "dianHua": "64960471",
+              "diZhi": "华泾路1000弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02c4f41488a41159f167872fb",
+              "mingZi": "上海市徐汇区华泾镇华泾四村居民委员会人民调解委员会",
+              "weiDu": "31.120341",
+              "jingDu": "121.447892",
+              "dianHua": "64961291",
+              "diZhi": "华泾路880弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f56840208c5719cc6431837a",
+              "mingZi": "上海市徐汇区华泾镇华发居民委员会人民调解委员会",
+              "weiDu": "31.128052",
+              "jingDu": "121.451809",
+              "dianHua": "64961924",
+              "diZhi": "华发路100弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e015c34ad8a38e49bd55c775d6",
+              "mingZi": "上海市徐汇区华泾镇馨宁居民委员会人民调解委员会",
+              "weiDu": "31.126621",
+              "jingDu": "121.447333",
+              "dianHua": "60707401",
+              "diZhi": "华发路369-5号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b41d4e17824dd552e17c2b14",
+              "mingZi": "上海市徐汇区长桥街道人民调解委员会",
+              "weiDu": "31.13832135",
+              "jingDu": "121.4432958",
+              "dianHua": "54288371",
+              "diZhi": "罗秀路616号",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e087404c8b8d0121fad470438b",
+              "mingZi": "上海市徐汇区长桥街道中海瀛台居民委员会人民调解委员会",
+              "weiDu": "31.137024",
+              "jingDu": "121.454131",
+              "dianHua": "33682447",
+              "diZhi": "罗秀东路128号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0880943d1be816daa71c857a4",
+              "mingZi": "上海市徐汇区长桥街道华东花苑第二居民委员会人民调解委员会",
+              "weiDu": "31.148021",
+              "jingDu": "121.434165",
+              "dianHua": "54112774",
+              "diZhi": "罗城路799弄33号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e012764b16acddaf30750df021",
+              "mingZi": "上海市徐汇区长桥街道华东花苑第一居民委员会人民调解委员会",
+              "weiDu": "31.147428",
+              "jingDu": "121.436404",
+              "dianHua": "54350882",
+              "diZhi": "龙川北路436弄11号",
+              "renYuan": 11,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0eed54b0d858c505ea7ffdfa9",
+              "mingZi": "上海市徐汇区长桥街道汇成五村居民委员会人民调解委员会",
+              "weiDu": "31.142163",
+              "jingDu": "121.436794",
+              "dianHua": "64237577",
+              "diZhi": "百色路汇成五村100号101室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b6594469a894dbdf7586a73b",
+              "mingZi": "上海市徐汇区长桥街道汇成四村居民委员会人民调解委员会",
+              "weiDu": "31.143078",
+              "jingDu": "121.437504",
+              "dianHua": "64239200",
+              "diZhi": "百色路汇成四村75号101室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06aeb47109f1be14edfc5e5dd",
+              "mingZi": "上海市徐汇区长桥街道汇成三村居民委员会人民调解委员会",
+              "weiDu": "31.143704",
+              "jingDu": "121.433694",
+              "dianHua": "64237813",
+              "diZhi": "百色路汇成三村33号101室",
+              "renYuan": 12,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0bca8407591d70543c504d98e",
+              "mingZi": "上海市徐汇区长桥街道汇成二村居民委员会人民调解委员会",
+              "weiDu": "31.146497",
+              "jingDu": "121.435428",
+              "dianHua": "64236334",
+              "diZhi": "百色路汇成二村20号101室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e039494f4b8db18e8da56bacc8",
+              "mingZi": "上海市徐汇区长桥街道汇成一村居民委员会人民调解委员会",
+              "weiDu": "31.14656",
+              "jingDu": "121.432583",
+              "dianHua": "64246595",
+              "diZhi": "百色路汇成一村25号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09886461ba450dabd2e632191",
+              "mingZi": "上海市徐汇区徐家汇街道汇翠居民委员会人民调解委员会",
+              "weiDu": "31.184143",
+              "jingDu": "121.438506",
+              "dianHua": "64684303",
+              "diZhi": "漕溪北路737弄5号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05c6d4f91909a0ee12d024280",
+              "mingZi": "上海市徐汇区徐家汇街道殷家角居民委员会人民调解委员会",
+              "weiDu": "31.187269",
+              "jingDu": "121.439075",
+              "dianHua": "64278112",
+              "diZhi": "天钥桥路380弄28号102室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05a98452f90576f1a9320d422",
+              "mingZi": "上海市徐汇区徐家汇街道零陵居民委员会人民调解委员会",
+              "weiDu": "31.18731",
+              "jingDu": "121.443731",
+              "dianHua": "64380909",
+              "diZhi": "斜土路2590弄6号105室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b3494395ac7b0cb5eaec3cfb",
+              "mingZi": "上海市徐汇区徐家汇街道王家堂居民委员会人民调解委员会",
+              "weiDu": "31.189691",
+              "jingDu": "121.444277",
+              "dianHua": "64381433",
+              "diZhi": "南丹东路100弄3号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01a0a40369c6a5c444d5e4cd9",
+              "mingZi": "上海市徐汇区徐家汇街道爱华居民委员会人民调解委员会",
+              "weiDu": "31.187936",
+              "jingDu": "121.446062",
+              "dianHua": "64274116",
+              "diZhi": "双峰北路6号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e063de42f58fee5f5f04736787",
+              "mingZi": "上海市徐汇区上海先行法治调解中心人民调解委员会",
+              "weiDu": "31.190191",
+              "jingDu": "121.4276",
+              "dianHua": "22810990",
+              "diZhi": "徐虹北路11号212室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02d454db4ae297005cdf9994e",
+              "mingZi": "上海市徐汇区湖南路街道人民调解委员会",
+              "weiDu": "31.210746",
+              "jingDu": "121.444174",
+              "dianHua": "64263789",
+              "diZhi": "五原路293号",
+              "renYuan": 11,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e046c948a29e701bd7bc266cfe",
+              "mingZi": "上海市徐汇区湖南路街道兴武居民委员会人民调解委员会",
+              "weiDu": "31.205755",
+              "jingDu": "121.437853",
+              "dianHua": "64710390",
+              "diZhi": "泰安路27弄6号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0180b487791f8a7027d6b388f",
+              "mingZi": "上海市徐汇区徐家汇街道启明居民委员会人民调解委员会",
+              "weiDu": "31.191858",
+              "jingDu": "121.442777",
+              "dianHua": "33686836",
+              "diZhi": "辛耕路81弄11号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0178b49168b2440a374855424",
+              "mingZi": "上海市徐汇区徐家汇街道科汇居民委员会人民调解委员会",
+              "weiDu": "31.1932",
+              "jingDu": "121.441737",
+              "dianHua": "64285391",
+              "diZhi": "天钥桥路69弄2号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d5e944e3bac434b8a0a404ec",
+              "mingZi": "上海市徐汇区虹梅路街道人民调解委员会",
+              "weiDu": "31.17851082",
+              "jingDu": "121.4025135",
+              "dianHua": "64018561",
+              "diZhi": "虹梅路2019号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f8c643948fe180fde6484ed5",
+              "mingZi": "上海市徐汇区虹梅路街道虹星居民委员会人民调解委员会",
+              "weiDu": "31.178234",
+              "jingDu": "121.411848",
+              "dianHua": "64950193",
+              "diZhi": "苍梧路468弄28号",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f6b34553a45ba2e3b68d2e89",
+              "mingZi": "上海市徐汇区虹梅路街道怡桂苑居民委员会人民调解委员会",
+              "weiDu": "31.176771",
+              "jingDu": "121.415849",
+              "dianHua": "64706507",
+              "diZhi": "桂林路505弄6号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a2af4c5cbaee5ad546b1e533",
+              "mingZi": "上海市徐汇区虹梅路街道钦北居民委员会人民调解委员会",
+              "weiDu": "31.18052786",
+              "jingDu": "121.402043",
+              "dianHua": "64056459",
+              "diZhi": "虹梅路2646号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e08fad4706bb95a9647c16a0a7",
+              "mingZi": "上海市徐汇区虹梅路街道桂林苑居民委员会人民调解委员会",
+              "weiDu": "31.180672",
+              "jingDu": "121.413527",
+              "dianHua": "64839571",
+              "diZhi": "钦州北路873号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e043bb4e3284681df6d9163796",
+              "mingZi": "上海市徐汇区湖南路街道新乐居民委员会人民调解委员会",
+              "weiDu": "31.217746",
+              "jingDu": "121.454859",
+              "dianHua": "54039453",
+              "diZhi": "新乐路100弄3号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e028e847818377e54d36966c68",
+              "mingZi": "上海市徐汇区长桥街道华滨居民委员会人民调解委员会",
+              "weiDu": "31.148449",
+              "jingDu": "121.43524",
+              "dianHua": "34691173",
+              "diZhi": "罗城路799弄10号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0013e4247892d83f096aec33a",
+              "mingZi": "上海市徐汇区徐家汇街道人民调解委员会",
+              "weiDu": "31.191445",
+              "jingDu": "121.445806",
+              "dianHua": "64417345",
+              "diZhi": "斜土路2431号209室",
+              "renYuan": 12,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d33c46188a188ea093c29ab1",
+              "mingZi": "上海市徐汇区徐家汇街道豪庭居民委员会人民调解委员会",
+              "weiDu": "31.190825",
+              "jingDu": "121.432102",
+              "dianHua": "64879542",
+              "diZhi": "虹桥路168号5号楼103室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06f9844f9b665975c9a89c55b",
+              "mingZi": "上海市徐汇区徐家汇街道徐汇新村居民委员会人民调解委员会",
+              "weiDu": "31.185807",
+              "jingDu": "121.435909",
+              "dianHua": "64385276",
+              "diZhi": "裕德路45弄21号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e068584740a82bd462896a3ddf",
+              "mingZi": "上海市徐汇区徐家汇街道潘家宅居民委员会人民调解委员会",
+              "weiDu": "31.186203",
+              "jingDu": "121.434327",
+              "dianHua": "64698937",
+              "diZhi": "蒲汇塘路50弄5号105室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03b1b4435ba82f4a94cbabcf1",
+              "mingZi": "上海市徐汇区徐家汇街道文定居民委员会人民调解委员会",
+              "weiDu": "31.188976",
+              "jingDu": "121.432518",
+              "dianHua": "64872240",
+              "diZhi": "南丹路128弄7号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02a694bed9af6b0becead90d5",
+              "mingZi": "上海市徐汇区徐家汇街道汇站居民委员会人民调解委员会",
+              "weiDu": "31.190604",
+              "jingDu": "121.432077",
+              "dianHua": "64877663",
+              "diZhi": "南丹路189弄2号103室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e07a0f4ceba07c0fe2381a0de8",
+              "mingZi": "上海市徐汇区虹梅路街道古美三居民委员会人民调解委员会",
+              "weiDu": "31.16021902",
+              "jingDu": "121.4047726",
+              "dianHua": "64849039",
+              "diZhi": "古美路491弄50号102室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05dce459bb28ff35e9773b41b",
+              "mingZi": "上海市徐汇区徐家汇街道南丹居民委员会人民调解委员会",
+              "weiDu": "31.192636",
+              "jingDu": "121.430115",
+              "dianHua": "64691424",
+              "diZhi": "虹桥路400弄30号101室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "c0a0fd14914547e7b0b70074d37a3e24",
+              "mingZi": "上海徐晓青律师事务所",
+              "weiDu": "31.1933495",
+              "jingDu": "121.4446946",
+              "dianHua": "64740148",
+              "diZhi": "漕溪北路595号B座1003室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "9d60a3e0deb448f6bb8dfc3bf3f6ffb3",
+              "mingZi": "上海市徐汇区徐家汇街道交大居民委员会人民调解委员会",
+              "weiDu": "31.190963",
+              "jingDu": "121.428",
+              "dianHua": "64482206",
+              "diZhi": "南丹路368弄9号102室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09fe74efe8f755b920a6d7a22",
+              "mingZi": "上海市徐汇区徐家汇街道东塘居民委员会人民调解委员会",
+              "weiDu": "31.193484",
+              "jingDu": "121.427444",
+              "dianHua": "64475742",
+              "diZhi": "虹桥路666弄1号101室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e070e748ca9b7b230e9c39690f",
+              "mingZi": "上海市徐汇区徐家汇街道西塘居民委员会人民调解委员会",
+              "weiDu": "31.19341",
+              "jingDu": "121.424934",
+              "dianHua": "64472597",
+              "diZhi": "凯旋一村12号甲",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05bf043ae82db9dcf201bbb93",
+              "mingZi": "上海市徐汇区徐家汇街道虹交居民委员会人民调解委员会",
+              "weiDu": "31.1968",
+              "jingDu": "121.43565",
+              "dianHua": "64079467",
+              "diZhi": "广元西路50弄13号102室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e029aa4822b2fea9b8a23891d0",
+              "mingZi": "上海市徐汇区徐家汇街道虹二居民委员会人民调解委员会",
+              "weiDu": "31.195376",
+              "jingDu": "121.42482",
+              "dianHua": "62834559",
+              "diZhi": "虹桥路693弄12号201室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e00fb744cea817120c8135e271",
+              "mingZi": "上海市徐汇区徐家汇街道番禺居民委员会人民调解委员会",
+              "weiDu": "31.20444065",
+              "jingDu": "121.4335856",
+              "dianHua": "62830261",
+              "diZhi": "番禺路800弄26号107室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b61a4efe821f9081bbdc0e41",
+              "mingZi": "上海市徐汇区徐家汇街道乐山八九村居民委员会人民调解委员会",
+              "weiDu": "31.194791",
+              "jingDu": "121.43043",
+              "dianHua": "64074166",
+              "diZhi": "虹桥路411弄5号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d3324a3cb84b04843e0731cf",
+              "mingZi": "上海市徐汇区徐家汇街道乐山六七村居民委员会人民调解委员会",
+              "weiDu": "31.195799",
+              "jingDu": "121.430916",
+              "dianHua": "64078252",
+              "diZhi": "乐山路30弄15号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b06b47b7bafe2a16db0a0648",
+              "mingZi": "上海市徐汇区湖南路街道复永居民委员会人民调解委员会",
+              "weiDu": "31.209706",
+              "jingDu": "121.444664",
+              "dianHua": "64372755",
+              "diZhi": "永福路147弄33号102室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01e96489a8586a38836a0ec11",
+              "mingZi": "上海市徐汇区湖南路街道武康居民委员会人民调解委员会",
+              "weiDu": "31.207606",
+              "jingDu": "121.442313",
+              "dianHua": "64312725",
+              "diZhi": "淮海中路1670弄14号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e064684c6f884be74f394ccc55",
+              "mingZi": "上海市徐汇区湖南路街道陕新居民委员会人民调解委员会",
+              "weiDu": "31.219051",
+              "jingDu": "121.455873",
+              "dianHua": "54048404",
+              "diZhi": "长乐路339弄12号甲",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d81e401ab1023c2d9a559458",
+              "mingZi": "上海市徐汇区湖南路街道复中居民委员会人民调解委员会",
+              "weiDu": "31.213766",
+              "jingDu": "121.457846",
+              "dianHua": "54653186",
+              "diZhi": "复兴中路1252弄10号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e017f6469ca2366409c36240b7",
+              "mingZi": "上海市徐汇区湖南路街道金波居民委员会人民调解委员会",
+              "weiDu": "31.212077",
+              "jingDu": "121.445231",
+              "dianHua": "64661589",
+              "diZhi": "五原路181弄2号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06a894b168372f3587e375911",
+              "mingZi": "上海市徐汇区康健街道欣园居民委员会人民调解委员会",
+              "weiDu": "31.16354124",
+              "jingDu": "121.4139381",
+              "dianHua": "64085667",
+              "diZhi": "桂平路257弄42号",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0402f4e3c9efd34251e2124bc",
+              "mingZi": "上海市徐汇区湖南路街道淮海居民委员会人民调解委员会",
+              "weiDu": "31.212101",
+              "jingDu": "121.451606",
+              "dianHua": "64371937",
+              "diZhi": "淮海中路1285弄54号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05b38448dae293b56b6f3b717",
+              "mingZi": "上海市徐汇区湖南路街道安福居民委员会人民调解委员会",
+              "weiDu": "31.21898291",
+              "jingDu": "121.4472383",
+              "dianHua": "54037403",
+              "diZhi": "武康路69弄1号103室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0eda9420f924eea65405fea1d",
+              "mingZi": "上海市徐汇区湖南路街道春华居民委员会人民调解委员会",
+              "weiDu": "31.214626",
+              "jingDu": "121.447221",
+              "dianHua": "54046112",
+              "diZhi": "安福路53弄11号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d9ca4572bae5f8c095f3ce94",
+              "mingZi": "上海市徐汇区湖南路街道东湖居民委员会人民调解委员会",
+              "weiDu": "31.215068",
+              "jingDu": "121.451732",
+              "dianHua": "54041980",
+              "diZhi": "延庆路123弄21号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0fe164fd59e2e445b2cd8976d",
+              "mingZi": "上海市徐汇区湖南路街道张家弄居民委员会人民调解委员会",
+              "weiDu": "31.213421",
+              "jingDu": "121.458012",
+              "dianHua": "64721652",
+              "diZhi": "复兴中路1252弄5号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0502146358da3c0f19dff523a",
+              "mingZi": "上海市徐汇区湖南路街道淮中居民委员会人民调解委员会",
+              "weiDu": "31.211567",
+              "jingDu": "121.448471",
+              "dianHua": "64716154",
+              "diZhi": "淮海中路1390弄1号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e020064214812a39ebb471f003",
+              "mingZi": "上海市徐汇区湖南路街道复襄居民委员会人民调解委员会",
+              "weiDu": "31.213628",
+              "jingDu": "121.456164",
+              "dianHua": "64374094",
+              "diZhi": "汾阳路9弄10号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06a2b49a7bc5c352a06b0f58d",
+              "mingZi": "上海市徐汇区康健街道寿昌山居民委员会人民调解委员会",
+              "weiDu": "31.152078",
+              "jingDu": "121.421469",
+              "dianHua": "54193911",
+              "diZhi": "桂林西街151弄8号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09ee04a8998a17caae69c7a98",
+              "mingZi": "上海市徐汇区虹梅路街道古美二居民委员会人民调解委员会",
+              "weiDu": "31.16111544",
+              "jingDu": "121.4031623",
+              "dianHua": "54264508",
+              "diZhi": "东兰路151弄5号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e07365449583335869d2b1096e",
+              "mingZi": "上海市徐汇区虹梅路街道古美一居民委员会人民调解委员会",
+              "weiDu": "31.16160827",
+              "jingDu": "121.4046144",
+              "dianHua": "64857598",
+              "diZhi": "东兰路121弄21号101室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0dfe140e58949121c36aeab27",
+              "mingZi": "上海市徐汇区虹梅路街道东兰居民委员会人民调解委员会",
+              "weiDu": "31.16245909",
+              "jingDu": "121.4083609",
+              "dianHua": "64849040",
+              "diZhi": "东兰路51弄2号104室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0897d4e70b3b00bbe2979e258",
+              "mingZi": "上海市徐汇区虹梅路街道航天新苑居民委员会人民调解委员会",
+              "weiDu": "31.178673127120327",
+              "jingDu": "121.40210800552416",
+              "dianHua": "64462096",
+              "diZhi": "虹梅路2015弄41号甲",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02cd549389dab79b78d47668d",
+              "mingZi": "上海市徐汇区虹梅路街道永兆居民委员会人民调解委员会",
+              "weiDu": "31.17891653",
+              "jingDu": "121.402798",
+              "dianHua": "64012135",
+              "diZhi": "虹梅路2588弄3号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e059934f6f928d72f0a0122f08",
+              "mingZi": "上海市徐汇区枫林路街道人民调解委员会",
+              "weiDu": "31.185318",
+              "jingDu": "121.451813",
+              "dianHua": "33685271",
+              "diZhi": "宛平南路921弄2号楼1楼",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0728047719e931fcb5088389b",
+              "mingZi": "上海市徐汇区枫林路街道徐汇苑居民委员会人民调解委员会",
+              "weiDu": "31.178644",
+              "jingDu": "121.444917",
+              "dianHua": "64563520",
+              "diZhi": "天钥桥路968弄1号108室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06be744f39de8d60dd45d4704",
+              "mingZi": "上海市徐汇区湖南路街道华康居民委员会人民调解委员会",
+              "weiDu": "31.21601614",
+              "jingDu": "121.4449623",
+              "dianHua": "64665844",
+              "diZhi": "湖南路280弄20号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e089dc4bc0b2774b680e788bbb",
+              "mingZi": "上海市徐汇区枫林路街道庄家宅居民委员会人民调解委员会",
+              "weiDu": "31.17985",
+              "jingDu": "121.444305",
+              "dianHua": "64561150",
+              "diZhi": "中山南二路1057弄6号101室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ee5b49608fcaa5fdfb15a2ad",
+              "mingZi": "上海市徐汇区枫林路街道宛南六村居民委员会人民调解委员会",
+              "weiDu": "31.179935",
+              "jingDu": "121.446263",
+              "dianHua": "64270032",
+              "diZhi": "宛南六村12号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a80845a98cdcee18617583c1",
+              "mingZi": "上海市徐汇区枫林路街道宛南五村居民委员会人民调解委员会",
+              "weiDu": "31.18107",
+              "jingDu": "121.448126",
+              "dianHua": "64878841",
+              "diZhi": "宛南五村5号",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e084a541e9817125fad1aa5d86",
+              "mingZi": "上海市徐汇区枫林路街道宛南四村居民委员会人民调解委员会",
+              "weiDu": "31.181448",
+              "jingDu": "121.449491",
+              "dianHua": "64876283",
+              "diZhi": "双峰路371号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e027c0480c95e76784d5ce0f2a",
+              "mingZi": "上海市徐汇区枫林路街道宛南三村居民委员会人民调解委员会",
+              "weiDu": "31.18033",
+              "jingDu": "121.451244",
+              "dianHua": "64695129",
+              "diZhi": "龙华路2381弄11号甲",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e059d8439bab132233681215dd",
+              "mingZi": "上海市徐汇区枫林路街道宛南新村第一、二居民委员会人民调解委员会",
+              "weiDu": "31.183139",
+              "jingDu": "121.448898",
+              "dianHua": "64387655",
+              "diZhi": "中山南二路937弄15号1室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0732147ca81714ad97fb974e0",
+              "mingZi": "上海市徐汇区枫林路街道龙山新村第二居民委员会人民调解委员会",
+              "weiDu": "31.183571",
+              "jingDu": "121.445999",
+              "dianHua": "64384526",
+              "diZhi": "龙山新村51号101室",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e046154cddae45eb9b26f0a757",
+              "mingZi": "上海市徐汇区枫林路街道龙山新村第一居民委员会人民调解委员会",
+              "weiDu": "31.183095",
+              "jingDu": "121.447129",
+              "dianHua": "64869684",
+              "diZhi": "天钥新村960弄2号101室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e063a4496fa4b403fc9e581fd4",
+              "mingZi": "上海市徐汇区田林街道工会劳动争议人民调解委员会",
+              "weiDu": "31.174196",
+              "jingDu": "121.422763",
+              "dianHua": "54486532",
+              "diZhi": "柳州路555号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f4994b14a8275bf084af584e",
+              "mingZi": "上海市徐汇区湖南路街道延庆居民委员会人民调解委员会",
+              "weiDu": "31.216644",
+              "jingDu": "121.451826",
+              "dianHua": "54037608",
+              "diZhi": "延庆路4弄12号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f276404dba76e825871a688c",
+              "mingZi": "上海市徐汇区绿主妇人民调解委员会",
+              "weiDu": "31.14345519",
+              "jingDu": "121.4231407",
+              "dianHua": "54284392",
+              "diZhi": "梅陇三村44号105室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d27f4a399fc667d0922c8581",
+              "mingZi": "上海市徐汇区中小企业经济纠纷人民调解委员会",
+              "weiDu": "31.200294",
+              "jingDu": "121.460519",
+              "dianHua": "64220831",
+              "diZhi": "大木桥路108号",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e5bb4d4f8999962449cf2206",
+              "mingZi": "上海市徐汇区田林街道人民调解委员会",
+              "weiDu": "31.174196",
+              "jingDu": "121.422763",
+              "dianHua": "64842809",
+              "diZhi": "柳州路555号126室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06ed34288a2247a596817dabc",
+              "mingZi": "上海市徐汇区田林街道田林十三村居民委员会人民调解委员会",
+              "weiDu": "31.1731",
+              "jingDu": "121.424214",
+              "dianHua": "64081354",
+              "diZhi": "田林十三村34号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e007f6403c9bb645ec3a9400bd",
+              "mingZi": "上海市徐汇区田林街道田林十二村居民委员会人民调解委员会",
+              "weiDu": "31.171646",
+              "jingDu": "121.429833",
+              "dianHua": "64707914",
+              "diZhi": "田林十二村30号101室",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e022fc4c99befce7cb58eec34d",
+              "mingZi": "上海市徐汇区龙华街道人民调解委员会",
+              "weiDu": "31.168228",
+              "jingDu": "121.449121",
+              "dianHua": "64578910",
+              "diZhi": "龙华西路21弄80号",
+              "renYuan": 18,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b37b4c0ea26e2584d7796225",
+              "mingZi": "上海市徐汇区龙华街道东蔡居民委员会人民调解委员会",
+              "weiDu": "31.172012",
+              "jingDu": "121.452232",
+              "dianHua": "64572819",
+              "diZhi": "龙华西路90弄8号103室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03279427abbeef6f812b1b3bf",
+              "mingZi": "上海市徐汇区田林街道爱建园居民委员会人民调解委员会",
+              "weiDu": "31.174969",
+              "jingDu": "121.433289",
+              "dianHua": "64397493",
+              "diZhi": "田林东路80弄05室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e006bb410f8564c9fbb3200312",
+              "mingZi": "上海市徐汇区田林街道万科华尔兹居民委员会人民调解委员会",
+              "weiDu": "31.169049",
+              "jingDu": "121.428848",
+              "dianHua": "64832561",
+              "diZhi": "漕宝路77弄10号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a9214e18bad65bb9cdfab0cd",
+              "mingZi": "上海市徐汇区田林街道华鼎居民委员会人民调解委员会",
+              "weiDu": "31.180034",
+              "jingDu": "121.432634",
+              "dianHua": "64877283",
+              "diZhi": "中山西路2366弄1号201室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e064e14c29bb53cae732a8f19c",
+              "mingZi": "上海市徐汇区田林街道古宜居民委员会人民调解委员会",
+              "weiDu": "31.19174804",
+              "jingDu": "121.4324869",
+              "dianHua": "64394535",
+              "diZhi": "古宜路99弄12号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f530462c822dbc7a7f8e1428",
+              "mingZi": "上海市徐汇区田林街道锦馨苑居民委员会人民调解委员会",
+              "weiDu": "31.19516188",
+              "jingDu": "121.4223919",
+              "dianHua": "64277898",
+              "diZhi": "古井路180弄105室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c79a40e796493bacc49f20c9",
+              "mingZi": "上海市徐汇区凌云路街道龙州居民委员会人民调解委员会",
+              "weiDu": "31.13637651",
+              "jingDu": "121.4336115",
+              "dianHua": "64536769",
+              "diZhi": "罗秀路1101号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a6654553af90f30803b9cf5f",
+              "mingZi": "上海市徐汇区凌云路街道兴荣苑居民委员会人民调解委员会",
+              "weiDu": "31.13605249",
+              "jingDu": "121.4379596",
+              "dianHua": "54282595",
+              "diZhi": "罗秀路955弄38号甲",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0635f449c935b9cc586815672",
+              "mingZi": "上海市徐汇区天平路街道广元居民委员会人民调解委员会",
+              "weiDu": "31.199014",
+              "jingDu": "121.440583",
+              "dianHua": "64310705",
+              "diZhi": "天平路179弄7号103室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d24942c6a736c03e43fee5ad",
+              "mingZi": "上海市徐汇区天平路街道天平居民委员会人民调解委员会",
+              "weiDu": "31.199604",
+              "jingDu": "121.437472",
+              "dianHua": "62836471",
+              "diZhi": "天平路222弄3号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c7d24401bada102023dcd06f",
+              "mingZi": "上海市徐汇区天平路街道宛平居民委员会人民调解委员会",
+              "weiDu": "31.199641",
+              "jingDu": "121.445009",
+              "dianHua": "64720247",
+              "diZhi": "吴兴路270弄8号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0eebf42238aa2b556598262fb",
+              "mingZi": "上海市徐汇区天平路街道建新居民委员会人民调解委员会",
+              "weiDu": "31.205263",
+              "jingDu": "121.456131",
+              "dianHua": "64453025",
+              "diZhi": "襄阳南路452弄88号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0244c4270a1a86abf951f19c1",
+              "mingZi": "上海市徐汇区天平路街道永太居民委员会人民调解委员会",
+              "weiDu": "31.209594",
+              "jingDu": "121.456357",
+              "dianHua": "64331452",
+              "diZhi": "永康路175弄16号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0aa784fc985ea75da8217ce43",
+              "mingZi": "上海市徐汇区龙华街道工会劳动争议人民调解委员会",
+              "weiDu": "31.168228",
+              "jingDu": "121.449121",
+              "dianHua": "54121033",
+              "diZhi": "龙华西路21弄80号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e04f574275bbef4d1ca244f3ea",
+              "mingZi": "上海市徐汇区龙华街道盛大花园居民委员会人民调解委员会",
+              "weiDu": "31.179826",
+              "jingDu": "121.454204",
+              "dianHua": "54910427",
+              "diZhi": "龙华路2518弄7号104室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06a834755b62efa6febd17119",
+              "mingZi": "上海市徐汇区龙华街道上缝新村居民委员会人民调解委员会",
+              "weiDu": "31.172442",
+              "jingDu": "121.445678",
+              "dianHua": "64574468",
+              "diZhi": "龙华西路285弄30号乙",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e030b9446ca0dae73c55f1eb42",
+              "mingZi": "上海市徐汇区漕河泾街道宏润花园居民委员会人民调解委员会",
+              "weiDu": "31.175222",
+              "jingDu": "121.437224",
+              "dianHua": "54244806",
+              "diZhi": "漕东支路218弄6号2楼",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ec7145c398349f2484a4b97a",
+              "mingZi": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "dianHua": "64387337*1103",
+              "diZhi": "中山南二路777弄2号楼2楼",
+              "renYuan": 51,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e08be24e9a910f21fe439cec71",
+              "mingZi": "上海市徐汇区婚姻家庭纠纷人民调解委员会",
+              "weiDu": "31.194726064130265",
+              "jingDu": "121.44314670557782",
+              "dianHua": "64872222*1241",
+              "diZhi": "南丹东路60号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d9cb4294b8d355191dba4f34",
+              "mingZi": "上海市徐汇区街道（镇）事业单位人事争议联合人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "dianHua": "64077766*3137",
+              "diZhi": "虹桥路432号",
+              "renYuan": 0,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e067d64ab0b5158e6476b9a714",
+              "mingZi": "上海市徐汇区漕河泾街道东泉路居民委员会人民调解委员会",
+              "weiDu": "31.155382",
+              "jingDu": "121.444528",
+              "dianHua": "54111053",
+              "diZhi": "东泉路55号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0237b4c448dbd4895707ba02e",
+              "mingZi": "上海市徐汇区枫林路街道天钥新村第三居民委员会人民调解委员会",
+              "weiDu": "31.184612",
+              "jingDu": "121.447259",
+              "dianHua": "64380200",
+              "diZhi": "天钥新村131号102室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e028cc4551bb3c187491fb0c60",
+              "mingZi": "上海市徐汇区枫林路街道天钥新村第一、二居民委员会人民调解委员会",
+              "weiDu": "31.185351",
+              "jingDu": "121.445541",
+              "dianHua": "64382324",
+              "diZhi": "天钥新村43号102室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e097604f3daa6b7b0f008153b4",
+              "mingZi": "上海市徐汇区天平路街道工会劳动争议人民调解委员会",
+              "weiDu": "31.20527",
+              "jingDu": "121.456829",
+              "dianHua": "64730988",
+              "diZhi": "余庆路21号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01a4448c897eaf9f3935a3508",
+              "mingZi": "上海市徐汇区上海市妇女联合会人民调解委员会",
+              "weiDu": "31.197105",
+              "jingDu": "121.439525",
+              "dianHua": "64330001*6433",
+              "diZhi": "天平路245号",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02aaa4dafb35af927485374b6",
+              "mingZi": "上海市徐汇区老干部权益纠纷人民调解委员会",
+              "weiDu": "31.200489",
+              "jingDu": "121.438102",
+              "dianHua": "62805003",
+              "diZhi": "康平路205号",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d3484d2abbc5b84059df8aed",
+              "mingZi": "上海市徐汇区工商联（商会）企业纠纷人民调解委员会",
+              "weiDu": "31.202468",
+              "jingDu": "121.449131",
+              "dianHua": "64665902",
+              "diZhi": "乌鲁木齐南路218号",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f21a4a45a5850035c684e715",
+              "mingZi": "上海市徐汇区漕河泾街道工会劳动争议人民调解委员会",
+              "weiDu": "31.163294",
+              "jingDu": "121.428742",
+              "dianHua": "64362996",
+              "diZhi": "康健路135号",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b39c42fb98050123b6550ef8",
+              "mingZi": "上海市徐汇区菜市场人民调解委员会",
+              "weiDu": "31.165466",
+              "jingDu": "121.430816",
+              "dianHua": "54650305",
+              "diZhi": "宜山路286号403室",
+              "renYuan": 20,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e056ab4f34b2bb1047953d5505",
+              "mingZi": "上海市徐汇区斜土路街道工会劳动争议人民调解委员会",
+              "weiDu": "31.194331",
+              "jingDu": "121.467889",
+              "dianHua": "64045999",
+              "diZhi": "茶陵路38号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06823418094e738bb66bfc3f4",
+              "mingZi": "上海市徐汇区漕河泾街道中海馨园居民委员会人民调解委员会",
+              "weiDu": "31.161589",
+              "jingDu": "121.429963",
+              "dianHua": "64360314",
+              "diZhi": "钦州南路8弄9号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e002f64864885d3ca8adcb5c4d",
+              "mingZi": "上海市徐汇区龙华街道周家湾居民委员会人民调解委员会",
+              "weiDu": "31.171361",
+              "jingDu": "121.451291",
+              "dianHua": "64566346",
+              "diZhi": "龙华西路87号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ad6d4919b96f52fb9bfbcb7e",
+              "mingZi": "上海市徐汇区枫林路街道东安四村居民委员会人民调解委员会",
+              "weiDu": "31.186626",
+              "jingDu": "121.451746",
+              "dianHua": "64281519",
+              "diZhi": "东安四村26号甲",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0be7b4b0f8dce2b81c4ae0644",
+              "mingZi": "上海市徐汇区天平路街道安亭居民委员会人民调解委员会",
+              "weiDu": "31.202894",
+              "jingDu": "121.447886",
+              "dianHua": "64722150",
+              "diZhi": "安亭路71号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d1b44013aa0f91b5c8036aea",
+              "mingZi": "上海市徐汇区上海市消费者权益保护委员会人民调解委员会",
+              "weiDu": "31.202668",
+              "jingDu": "121.461531",
+              "dianHua": "64220000*1820",
+              "diZhi": "肇嘉浜路301号1401室",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e1444628896f32b9fdaf851c",
+              "mingZi": "上海市徐汇区徐家汇社区嘉汇物业管理事务指导中心人民调解委员会",
+              "weiDu": "31.190191",
+              "jingDu": "121.4276",
+              "dianHua": "34692110",
+              "diZhi": "徐虹北路11号213室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0608740eebe94d8e05ea1c4ff",
+              "mingZi": "上海市徐汇区虹梅路街道工会劳动争议人民调解委员会",
+              "weiDu": "31.17851082",
+              "jingDu": "121.4025135",
+              "dianHua": "64018663",
+              "diZhi": "虹梅路2019号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f0d64100ad908f053d5c568e",
+              "mingZi": "上海市徐汇区虹梅社区漕河泾开发区劳动争议与经济纠纷人民调解委员会",
+              "weiDu": "31.165467",
+              "jingDu": "121.411585",
+              "dianHua": "64018561",
+              "diZhi": "虹梅路2019号",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b1f549faadd737e5f8a7527a",
+              "mingZi": "上海市徐汇区枫林路街道工会劳动争议人民调解委员会",
+              "weiDu": "31.183006",
+              "jingDu": "121.452594",
+              "dianHua": "33685271",
+              "diZhi": "宛平南路921弄2号101室",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f6374cd8a9014d4693b386ee",
+              "mingZi": "上海市徐汇区龙华社区规模租赁人民调解委员会",
+              "weiDu": "31.158113",
+              "jingDu": "121.451645",
+              "dianHua": "54362203",
+              "diZhi": "龙吴路410弄93号",
+              "renYuan": 0,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e056b94314b85a7842c555efe4",
+              "mingZi": "上海市徐汇区斜土路街道日晖新城居民委员会人民调解委员会",
+              "weiDu": "31.195048",
+              "jingDu": "121.467074",
+              "dianHua": "64430290",
+              "diZhi": "零陵路17号",
+              "renYuan": 11,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e059bd4bceacea6f54b9982a62",
+              "mingZi": "上海市徐汇区田林街道千鹤第三居民委员会人民调解委员会",
+              "weiDu": "31.176756",
+              "jingDu": "121.42132",
+              "dianHua": "64830210",
+              "diZhi": "柳州路585弄1号203室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0283b4c6983f987a727385156",
+              "mingZi": "上海市徐汇区田林街道新苑第五、六、七居民委员会人民调解委员会",
+              "weiDu": "31.17369",
+              "jingDu": "121.426306",
+              "dianHua": "64836626",
+              "diZhi": "田林东路414弄22号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e00ba54fc19a6f80b4e78809e7",
+              "mingZi": "上海市徐汇区枫林路街道张东居民委员会人民调解委员会",
+              "weiDu": "31.197679",
+              "jingDu": "121.450234",
+              "dianHua": "64431659",
+              "diZhi": "东安路50弄3号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e094d34528a53010d9387229f4",
+              "mingZi": "上海市徐汇区枫林路街道张家浜居民委员会人民调解委员会",
+              "weiDu": "31.196252",
+              "jingDu": "121.446159",
+              "dianHua": "64387373",
+              "diZhi": "宛平南路65弄10号102室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e000d1497f9b49198d9f59675d",
+              "mingZi": "上海市徐汇区枫林路街道汇园居民委员会人民调解委员会",
+              "weiDu": "31.193558",
+              "jingDu": "121.447216",
+              "dianHua": "64261847",
+              "diZhi": "宛平南路255弄35号102室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01d3642e38d4748d5eb0a4d32",
+              "mingZi": "上海市徐汇区枫林路街道安康居民委员会人民调解委员会",
+              "weiDu": "31.191064",
+              "jingDu": "121.449685",
+              "dianHua": "64165834",
+              "diZhi": "斜土路2200弄48号104室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03b6648b99308be80e1b8a2aa",
+              "mingZi": "上海市徐汇区枫林路街道谨斜居民委员会人民调解委员会",
+              "weiDu": "31.193592",
+              "jingDu": "121.448187",
+              "dianHua": "64189587",
+              "diZhi": "斜土路2183弄17号103室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e027b7489c97dae6459fad919e",
+              "mingZi": "上海市徐汇区枫林路街道振兴居民委员会人民调解委员会",
+              "weiDu": "31.19265",
+              "jingDu": "121.452449",
+              "dianHua": "64435280",
+              "diZhi": "东安路240弄23号101室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0179b4930b907333778f0fb2b",
+              "mingZi": "上海市徐汇区田林街道田林十一村居民委员会人民调解委员会",
+              "weiDu": "31.171083",
+              "jingDu": "121.426134",
+              "dianHua": "64084485",
+              "diZhi": "田林十一村44号101室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09fae4b66a5306e06ef0c8883",
+              "mingZi": "上海市徐汇区枫林路街道沈家里居民委员会人民调解委员会",
+              "weiDu": "31.189878",
+              "jingDu": "121.454741",
+              "dianHua": "64431499",
+              "diZhi": "东安路364弄6号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d9af40a782ab0dd02c02c942",
+              "mingZi": "上海市徐汇区枫林路街道东安二村居民委员会人民调解委员会",
+              "weiDu": "31.186954",
+              "jingDu": "121.455101",
+              "dianHua": "64698858",
+              "diZhi": "东安二村80号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a0784533b54772cfcb990485",
+              "mingZi": "上海市徐汇区枫林路街道东安一村南居民委员会人民调解委员会",
+              "weiDu": "31.188826",
+              "jingDu": "121.457345",
+              "dianHua": "64177035",
+              "diZhi": "东安一村64号13室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e065734e25b32be00700bc26ab",
+              "mingZi": "上海市徐汇区枫林路街道东安一村北居民委员会人民调解委员会",
+              "weiDu": "31.189495",
+              "jingDu": "121.457096",
+              "dianHua": "64189408",
+              "diZhi": "东安路351弄11号底楼南侧",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02aaa4b7796bc5f7b38ea8e78",
+              "mingZi": "上海市徐汇区枫林路街道医清居民委员会人民调解委员会",
+              "weiDu": "31.198452",
+              "jingDu": "121.455443",
+              "dianHua": "64180319",
+              "diZhi": "医学院路110弄25号104室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e04df04238a982b0008160c655",
+              "mingZi": "上海市徐汇区枫林路街道平江居民委员会人民调解委员会",
+              "weiDu": "31.200013",
+              "jingDu": "121.453073",
+              "dianHua": "64045618",
+              "diZhi": "肇嘉浜路651弄101室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ea934f9d91770869e23ee9a8",
+              "mingZi": "上海市徐汇区枫林路街道西木南居民委员会人民调解委员会",
+              "weiDu": "31.194115",
+              "jingDu": "121.459166",
+              "dianHua": "64180082",
+              "diZhi": "小木桥路440弄35号102室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03237495d80a2209c3b73c965",
+              "mingZi": "上海市徐汇区消费者权益保护委员会人民调解委员会",
+              "weiDu": "31.190811",
+              "jingDu": "121.437199",
+              "dianHua": "64227001",
+              "diZhi": "龙漕路200弄29号5楼",
+              "renYuan": 18,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "c0a0fd14c36440e79fc5e28e7bd2e469",
+              "mingZi": "上海市德尚律师事务所",
+              "weiDu": "31.24452006",
+              "jingDu": "121.4836096",
+              "dianHua": "64720123",
+              "diZhi": "北京东路668号科技京城（西楼）27B",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "9d60a3e09c7a45a1a2d353e64cef6447",
+              "mingZi": "上海市徐汇区残疾人联合会人民调解委员会",
+              "weiDu": "31.200564",
+              "jingDu": "121.460806",
+              "dianHua": "54961010*314",
+              "diZhi": "医学院路1号",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b7994ee1a11bc83f8e15b538",
+              "mingZi": "上海市徐汇区康健街道工会劳动争议人民调解委员会",
+              "weiDu": "31.155145",
+              "jingDu": "121.415962",
+              "dianHua": "64700891",
+              "diZhi": "桂林西街15弄2号甲",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0da6f4a93820f78bbe0eee7da",
+              "mingZi": "上海市徐汇区总工会职工权益纠纷人民调解委员会",
+              "weiDu": "31.156243",
+              "jingDu": "121.41952",
+              "dianHua": "64879330",
+              "diZhi": "漕溪北路336号1号楼814室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e07e9849a3bdb16b4e96f3b4d0",
+              "mingZi": "上海市徐汇区凌云路街道工会劳动争议人民调解委员会",
+              "weiDu": "31.13695295",
+              "jingDu": "121.4401772",
+              "dianHua": "64537108*8102",
+              "diZhi": "老沪闵路1039弄45号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e022194cbcb372ea824157565c",
+              "mingZi": "上海市徐汇区交通事故争议人民调解委员会",
+              "weiDu": "31.138235",
+              "jingDu": "121.451992",
+              "dianHua": "23037982",
+              "diZhi": "龙吴路2138号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c46247a1a3a71ba519e913d2",
+              "mingZi": "上海市徐汇区长桥街道工会劳动争议人民调解委员会",
+              "weiDu": "31.133764",
+              "jingDu": "121.446377",
+              "dianHua": "64100549*3101",
+              "diZhi": "罗秀新村112号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0cc764162ba3c8658e1b053a4",
+              "mingZi": "上海市徐汇区斜土路街道尚海湾居民委员会人民调解委员会",
+              "weiDu": "31.188299",
+              "jingDu": "121.464244",
+              "dianHua": "64041378",
+              "diZhi": "小木桥路709号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e034924f4d922ff8dda0c5ee6b",
+              "mingZi": "上海市徐汇区华泾镇人民调解委员会",
+              "weiDu": "31.12372203",
+              "jingDu": "121.4627607",
+              "dianHua": "54281818转8180",
+              "diZhi": "龙吴路2443号",
+              "renYuan": 17,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0bc044ba99993ee58bf33a8cd",
+              "mingZi": "上海市徐汇区凌云路街道书香苑居民委员会人民调解委员会",
+              "weiDu": "31.138606",
+              "jingDu": "121.428467",
+              "dianHua": "54392008",
+              "diZhi": "天等路430弄11--12号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c3fc47e18fc2a4ceb9a47e3d",
+              "mingZi": "上海市徐汇区田林街道新苑第三、四居民委员会人民调解委员会",
+              "weiDu": "31.16036",
+              "jingDu": "121.431482",
+              "dianHua": "64082541",
+              "diZhi": "钦州路840号110室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09eae45f0946ec7aeba022f50",
+              "mingZi": "上海市徐汇区田林街道新苑第一、二居民委员会人民调解委员会",
+              "weiDu": "31.178472",
+              "jingDu": "121.425649",
+              "dianHua": "54484269",
+              "diZhi": "钦州路900号110室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0973f430cbe8a00816d6ce669",
+              "mingZi": "上海市徐汇区田林街道田林十四村居民委员会人民调解委员会",
+              "weiDu": "31.174529",
+              "jingDu": "121.424035",
+              "dianHua": "64756867",
+              "diZhi": "田林十四村79号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06b0c496dbcec5b38b4f5da26",
+              "mingZi": "上海市徐汇区凌云路街道梅苑第一居民委员会人民调解委员会",
+              "weiDu": "31.18956716",
+              "jingDu": "121.3918139",
+              "dianHua": "64108167",
+              "diZhi": "虹梅路96弄94号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b4ce4c61a335161c67b7d31c",
+              "mingZi": "上海市徐汇区凌云路街道梅陇十一村第二居民委员会人民调解委员会",
+              "weiDu": "31.14037632",
+              "jingDu": "121.4346341",
+              "dianHua": "64762275",
+              "diZhi": "上中西路151弄152号102室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0fa654b64bed364ef880f157f",
+              "mingZi": "上海市徐汇区龙华街道华容居民委员会人民调解委员会",
+              "weiDu": "31.179757",
+              "jingDu": "121.4503",
+              "dianHua": "54251540",
+              "diZhi": "华容路111弄3号甲1103室",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09b5b41a7a848a03579816abb",
+              "mingZi": "上海市徐汇区龙华街道丰谷路第三居民委员会人民调解委员会",
+              "weiDu": "31.166846",
+              "jingDu": "121.454902",
+              "dianHua": "64575685",
+              "diZhi": "丰谷路300弄1号101室",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02f4a435fac9c103598f3ab78",
+              "mingZi": "上海市徐汇区龙华街道丰谷路居民委员会人民调解委员会",
+              "weiDu": "31.168285",
+              "jingDu": "121.454712",
+              "dianHua": "64560060",
+              "diZhi": "丰谷路225弄3号",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b2ac471fbb93e410fde37d96",
+              "mingZi": "上海市徐汇区田林街道田林八、九、十村居民委员会人民调解委员会",
+              "weiDu": "31.175045",
+              "jingDu": "121.420182",
+              "dianHua": "64825609",
+              "diZhi": "宜山路691弄6号101室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0fca14978adad1f0219ee2e37",
+              "mingZi": "上海市徐汇区田林街道田林五、六、七村居民委员会人民调解委员会",
+              "weiDu": "31.17841189",
+              "jingDu": "121.42691",
+              "dianHua": "64825623",
+              "diZhi": "田林六村14号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e050dc40ccb17906f50820991e",
+              "mingZi": "上海市徐汇区田林街道田林三、四村居民委员会人民调解委员会",
+              "weiDu": "31.17694093",
+              "jingDu": "121.4279938",
+              "dianHua": "64086143",
+              "diZhi": "田林三村20号102室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0250d495bad6942acef41db57",
+              "mingZi": "上海市徐汇区田林街道田林一、二村居民委员会人民调解委员会",
+              "weiDu": "31.170064",
+              "jingDu": "121.419427",
+              "dianHua": "64363539",
+              "diZhi": "田林路65弄5号103室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0185342e5aae7b0c62448aff6",
+              "mingZi": "上海市徐汇区凌云路街道梅陇四村居民委员会人民调解委员会",
+              "weiDu": "31.13593516",
+              "jingDu": "121.4333093",
+              "dianHua": "64545532",
+              "diZhi": "梅陇四村90号108室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0caa14ecfa51c1696492b104d",
+              "mingZi": "上海市徐汇区天平路街道康平居民委员会人民调解委员会",
+              "weiDu": "31.203133",
+              "jingDu": "121.442144",
+              "dianHua": "64738025",
+              "diZhi": "康平路114号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e007d3447dba3e675045dd43ad",
+              "mingZi": "上海市徐汇区龙华街道樟树苑居民委员会人民调解委员会",
+              "weiDu": "31.148956",
+              "jingDu": "121.451388",
+              "dianHua": "54350533",
+              "diZhi": "龙吴路988弄9号101室",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0325c42b99ce9edb6935a3a1f",
+              "mingZi": "上海市徐汇区龙华街道云锦路居民委员会人民调解委员会",
+              "weiDu": "31.174003",
+              "jingDu": "121.456806",
+              "dianHua": "64562542",
+              "diZhi": "云锦路50弄48号101室",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a69942a4ad405a91e46d668d",
+              "mingZi": "上海市徐汇区龙华街道俞家湾第三居民委员会人民调解委员会",
+              "weiDu": "31.16794",
+              "jingDu": "121.448974",
+              "dianHua": "64576513",
+              "diZhi": "龙华西路21弄18号乙",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b8814c6380811fb83cd483a6",
+              "mingZi": "上海市徐汇区龙华街道俞家湾第二居民委员会人民调解委员会",
+              "weiDu": "31.167947",
+              "jingDu": "121.449963",
+              "dianHua": "64563171",
+              "diZhi": "龙华西路21弄16号",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e91744d89b172361680882aa",
+              "mingZi": "上海市徐汇区龙华街道俞家湾第一居民委员会人民调解委员会",
+              "weiDu": "31.169681",
+              "jingDu": "121.45175",
+              "dianHua": "64577068",
+              "diZhi": "龙华西路31弄6号甲",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06ba64991ac53efab79ba0c9f",
+              "mingZi": "上海市徐汇区龙华街道狮城居民委员会人民调解委员会",
+              "weiDu": "31.166119",
+              "jingDu": "121.445962",
+              "dianHua": "64565478",
+              "diZhi": "龙吴路288弄14号",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d688463eba76937f34cb65f4",
+              "mingZi": "上海市徐汇区华泾镇名苑居民委员会人民调解委员会",
+              "weiDu": "31.1217763",
+              "jingDu": "121.4618911",
+              "dianHua": "54820866",
+              "diZhi": "龙吴路2525弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01f614e6ea05fe5c94cade647",
+              "mingZi": "上海市徐汇区华泾镇大桥居民委员会人民调解委员会",
+              "weiDu": "31.12278",
+              "jingDu": "121.458938",
+              "dianHua": "54827062",
+              "diZhi": "龙吴路2388弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0bf5f4dafa70f50f4badbcb28",
+              "mingZi": "上海市徐汇区天平路街道桃源村居民委员会人民调解委员会",
+              "weiDu": "31.211437",
+              "jingDu": "121.456257",
+              "dianHua": "64377316",
+              "diZhi": "复兴中路1295弄2号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e07be549d3b69b94feb0327d0d",
+              "mingZi": "上海市徐汇区凌云路街道长陇苑居民委员会人民调解委员会",
+              "weiDu": "31.136454",
+              "jingDu": "121.429221",
+              "dianHua": "64771164",
+              "diZhi": "上中西路120弄23号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e08b914200a5327eda09bd837d",
+              "mingZi": "上海市徐汇区凌云路街道家乐苑居民委员会人民调解委员会",
+              "weiDu": "31.135169",
+              "jingDu": "121.431238",
+              "dianHua": "64779643",
+              "diZhi": "上中西路55弄62号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f24f48689289cfb80b1eac83",
+              "mingZi": "上海市徐汇区凌云路街道华理苑居民委员会人民调解委员会",
+              "weiDu": "31.144787",
+              "jingDu": "121.421106",
+              "dianHua": "64253352",
+              "diZhi": "梅陇路130号华理苑23号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c2494bd6aa1aed5db59eccfc",
+              "mingZi": "上海市徐汇区凌云路街道华东理工大学第二居民委员会人民调解委员会",
+              "weiDu": "31.1441154",
+              "jingDu": "121.4242849",
+              "dianHua": "64252779",
+              "diZhi": "梅陇路300号225-6",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e4d34065a6e517e2ed3ddc31",
+              "mingZi": "上海市徐汇区凌云路街道华东理工大学第一居民委员会人民调解委员会",
+              "weiDu": "31.16915209",
+              "jingDu": "121.446235",
+              "dianHua": "64237562",
+              "diZhi": "理工一村173号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0285049c58d2b105444bde53c",
+              "mingZi": "上海市徐汇区凌云路街道梅苑第二居民委员会人民调解委员会",
+              "weiDu": "31.14507341",
+              "jingDu": "121.4224511",
+              "dianHua": "64235574",
+              "diZhi": "虹梅路126弄68号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f83d43418ac6b6d4bf5cc50c",
+              "mingZi": "上海市徐汇区龙华街道滨江居民委员会人民调解委员会",
+              "weiDu": "31.152247",
+              "jingDu": "121.458041",
+              "dianHua": "54098592",
+              "diZhi": "天钥桥南路1249弄6号101室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0aece41ce984e594f12af2f73",
+              "mingZi": "上海市徐汇区天平路街道人民调解委员会",
+              "weiDu": "31.20527",
+              "jingDu": "121.456829",
+              "dianHua": "64676233",
+              "diZhi": "广元路198号天平街道综治中心1楼",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0da4a48d4bc536ad63b0142e6",
+              "mingZi": "上海市徐汇区天平路街道吴兴居民委员会人民调解委员会",
+              "weiDu": "31.199117",
+              "jingDu": "121.446543",
+              "dianHua": "64372546",
+              "diZhi": "高安路100弄1号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c0494bd3a8a1db988a860366",
+              "mingZi": "上海市徐汇区天平路街道高安居民委员会人民调解委员会",
+              "weiDu": "31.20285",
+              "jingDu": "121.44482",
+              "dianHua": "64152193",
+              "diZhi": "衡山路300弄4号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06ef0497691563b4e35165c50",
+              "mingZi": "上海市徐汇区长桥街道罗秀三村居民委员会人民调解委员会",
+              "weiDu": "31.134224",
+              "jingDu": "121.446588",
+              "dianHua": "64772858",
+              "diZhi": "罗秀路罗秀三村112号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0694944fc9705dd26ec2b2486",
+              "mingZi": "上海市徐汇区长桥街道罗秀二村居民委员会人民调解委员会",
+              "weiDu": "31.131133",
+              "jingDu": "121.449512",
+              "dianHua": "64764983",
+              "diZhi": "罗秀路罗秀二村27号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e005f14782972ff2c9b7a07bee",
+              "mingZi": "上海市徐汇区漕河泾街道宾阳路居民委员会人民调解委员会",
+              "weiDu": "31.164337",
+              "jingDu": "121.438432",
+              "dianHua": "64836342",
+              "diZhi": "宾阳路62弄3号2楼",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b2e64a949e41d66044f4e7f0",
+              "mingZi": "上海市徐汇区漕河泾街道冠生园路居民委员会人民调解委员会",
+              "weiDu": "31.160904",
+              "jingDu": "121.426271",
+              "dianHua": "64365276",
+              "diZhi": "冠生园路237弄44号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e095ab423b80c51564ff9adfbc",
+              "mingZi": "上海市徐汇区漕河泾街道罗城居民委员会人民调解委员会",
+              "weiDu": "31.149123",
+              "jingDu": "121.432826",
+              "dianHua": "54080205",
+              "diZhi": "罗城路700弄94号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e078a545368c1567d29a8e87c7",
+              "mingZi": "上海市徐汇区天平路街道上海新村居民委员会人民调解委员会",
+              "weiDu": "31.206481",
+              "jingDu": "121.444315",
+              "dianHua": "64716465",
+              "diZhi": "高安路1弄1号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e011a94aa29f018c197df8895a",
+              "mingZi": "上海市徐汇区天平路街道建岳居民委员会人民调解委员会",
+              "weiDu": "31.205857",
+              "jingDu": "121.452135",
+              "dianHua": "54656115",
+              "diZhi": "永嘉路511号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f2b147418d2730364349520f",
+              "mingZi": "上海市徐汇区天平路街道永嘉新村居民委员会人民调解委员会",
+              "weiDu": "31.206063",
+              "jingDu": "121.450297",
+              "dianHua": "64373884",
+              "diZhi": "永嘉路580弄",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03ac94ebeb8f4499784956194",
+              "mingZi": "上海市徐汇区天平路街道太原居民委员会人民调解委员会",
+              "weiDu": "31.207673",
+              "jingDu": "121.453709",
+              "dianHua": "64660418",
+              "diZhi": "岳阳路77弄17-18号",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e020884346840832a289b60dd4",
+              "mingZi": "上海市徐汇区天平路街道息村居民委员会人民调解委员会",
+              "weiDu": "31.203275",
+              "jingDu": "121.456",
+              "dianHua": "64744507",
+              "diZhi": "建国西路355弄7号乙",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e052c24621af641c6d10840246",
+              "mingZi": "上海市徐汇区长桥街道长桥四村第二居民委员会人民调解委员会",
+              "weiDu": "31.13970651",
+              "jingDu": "121.4474746",
+              "dianHua": "64103429",
+              "diZhi": "长桥路长桥四村97号",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b3fb4c19b397c9aee307b6b4",
+              "mingZi": "上海市徐汇区长桥街道长桥四村第一居民委员会人民调解委员会",
+              "weiDu": "31.14032728",
+              "jingDu": "121.445348",
+              "dianHua": "64103308",
+              "diZhi": "长桥路长桥四村29号二楼",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0df3d4ac8afe6c36cb7a124f2",
+              "mingZi": "上海市徐汇区漕河泾街道九弄居民委员会人民调解委员会",
+              "weiDu": "31.166951",
+              "jingDu": "121.43246",
+              "dianHua": "64365438",
+              "diZhi": "康健路25弄31号101",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b0f848cb98fdb0d98a5b2d0d",
+              "mingZi": "上海市徐汇区漕河泾街道正南居民委员会人民调解委员会",
+              "weiDu": "31.150099",
+              "jingDu": "121.429851",
+              "dianHua": "54364204",
+              "diZhi": "石龙路818弄25号101-102",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0825d4d0d8bc42e8f31f8ff0b",
+              "mingZi": "上海市徐汇区天平路街道陕西居民委员会人民调解委员会",
+              "weiDu": "31.208718",
+              "jingDu": "121.457925",
+              "dianHua": "64375012",
+              "diZhi": "陕西南路550弄4号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0956a46d2a82e7c30b19fb7e3",
+              "mingZi": "上海市徐汇区天平路街道永康居民委员会人民调解委员会",
+              "weiDu": "31.210025",
+              "jingDu": "121.458062",
+              "dianHua": "64722798",
+              "diZhi": "襄阳南路277弄5号102室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e011534d52aff81779bc8887b2",
+              "mingZi": "上海市徐汇区天平路街道肇嘉浜居民委员会人民调解委员会",
+              "weiDu": "31.204151",
+              "jingDu": "121.458402",
+              "dianHua": "64333244",
+              "diZhi": "襄阳南路499弄1号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c9084b51bbcf777f3bba84c7",
+              "mingZi": "上海市徐汇区天平路街道慎成居民委员会人民调解委员会",
+              "weiDu": "31.208618",
+              "jingDu": "121.460611",
+              "dianHua": "64330087",
+              "diZhi": "嘉善路276号西二楼",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0eee34c7da657849978bcf1d0",
+              "mingZi": "上海市徐汇区天平路街道嘉善居民委员会人民调解委员会",
+              "weiDu": "31.21027",
+              "jingDu": "121.459591",
+              "dianHua": "64722762",
+              "diZhi": "嘉善路119弄5号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "c0a0fd14103849eab02308e471eb8286",
+              "mingZi": "上海市汇业律师事务所",
+              "weiDu": "31.22184161",
+              "jingDu": "121.4402807",
+              "dianHua": "52370950",
+              "diZhi": "延安西路726号13楼C座",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "9d60a3e07c064375969de0ff473a338f",
+              "mingZi": "上海市徐汇区天平路街道德昌居民委员会人民调解委员会",
+              "weiDu": "31.19887",
+              "jingDu": "121.438329",
+              "dianHua": "62816058",
+              "diZhi": "天平路139号甲101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b60646db8cec0df8275a5ede",
+              "mingZi": "上海市徐汇区长桥街道平福居民委员会人民调解委员会",
+              "weiDu": "31.13986",
+              "jingDu": "121.447181",
+              "dianHua": "64558973",
+              "diZhi": "上中路483弄60号",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0430a48dea8f6846b22cfaec8",
+              "mingZi": "上海市徐汇区长桥街道百龙居民委员会人民调解委员会",
+              "weiDu": "31.14507",
+              "jingDu": "121.449528",
+              "dianHua": "54364043",
+              "diZhi": "龙吴路1137弄18号106室",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d0534474b6cb4ed5885be6e1",
+              "mingZi": "上海市徐汇区漕河泾街道习勤居民委员会人民调解委员会",
+              "weiDu": "31.16671",
+              "jingDu": "121.427509",
+              "dianHua": "64363966",
+              "diZhi": "漕泾一村31号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01f47498086332d1959ac6ee5",
+              "mingZi": "上海市徐汇区龙华街道强生花苑居民委员会人民调解委员会",
+              "weiDu": "31.176331",
+              "jingDu": "121.44465",
+              "dianHua": "64565036",
+              "diZhi": "龙华西路398弄1号101室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02330455ab46b954bfdaca8b0",
+              "mingZi": "上海市徐汇区龙华街道民苑居民委员会人民调解委员会",
+              "weiDu": "31.172397",
+              "jingDu": "121.457985",
+              "dianHua": "54107691",
+              "diZhi": "云锦路201弄2号101室",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d6754b40afe087e9bae5449b",
+              "mingZi": "上海市徐汇区龙华街道龙华新村居民委员会人民调解委员会",
+              "weiDu": "31.179107",
+              "jingDu": "121.44889",
+              "dianHua": "64683768",
+              "diZhi": "龙华路2501弄23幢101室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e072184c0f8b39c52224377d07",
+              "mingZi": "上海市徐汇区龙华街道龙南七村居民委员会人民调解委员会",
+              "weiDu": "31.158737",
+              "jingDu": "121.453949",
+              "dianHua": "54350350",
+              "diZhi": "黄石路龙南七村71号101室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ab5e492aaf57e2ba8470f4cf",
+              "mingZi": "上海市徐汇区龙华街道龙南六村居民委员会人民调解委员会",
+              "weiDu": "31.154803",
+              "jingDu": "121.452319",
+              "dianHua": "54353087",
+              "diZhi": "喜泰北路龙南六村3号102室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0de614f12ae303171c8280b46",
+              "mingZi": "上海市徐汇区龙华街道龙南五村居民委员会人民调解委员会",
+              "weiDu": "31.154972",
+              "jingDu": "121.453976",
+              "dianHua": "54093882",
+              "diZhi": "龙水南路龙南五村208号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f8f04e0695bfab143ab1af9c",
+              "mingZi": "上海市徐汇区龙华街道龙南三四村居民委员会人民调解委员会",
+              "weiDu": "31.155732",
+              "jingDu": "121.455876",
+              "dianHua": "54092995",
+              "diZhi": "天钥桥南路龙南四村37号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e050c34f12a2dbcc56a7935e31",
+              "mingZi": "上海市徐汇区长桥街道徐汇新城居民委员会人民调解委员会",
+              "weiDu": "31.131647",
+              "jingDu": "121.451513",
+              "dianHua": "54011383",
+              "diZhi": "龙吴路1717弄37号",
+              "renYuan": 12,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c1f1457698d9652f4f7f01a2",
+              "mingZi": "上海市徐汇区长桥街道汇澜园居民委员会人民调解委员会",
+              "weiDu": "31.14779",
+              "jingDu": "121.430524",
+              "dianHua": "54111537",
+              "diZhi": "石龙路999弄2号",
+              "renYuan": 12,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e026a8457e9fc5310879e051b2",
+              "mingZi": "上海市徐汇区漕河泾街道东荡居民委员会人民调解委员会",
+              "weiDu": "31.149198",
+              "jingDu": "121.427287",
+              "dianHua": "54359930",
+              "diZhi": "老沪闵路150弄2号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e038544609aa291f3bc5e4c960",
+              "mingZi": "上海市徐汇区漕河泾街道挹翠苑居民委员会人民调解委员会",
+              "weiDu": "31.16068799194791",
+              "jingDu": "121.45167585498815",
+              "dianHua": "54113795",
+              "diZhi": "东泉路188弄72号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02d2e4b9c81706003bfec3a44",
+              "mingZi": "上海市徐汇区漕河泾街道漕东居民委员会人民调解委员会",
+              "weiDu": "31.170313",
+              "jingDu": "121.437762",
+              "dianHua": "64083188",
+              "diZhi": "漕东支路漕溪三村499号103室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0760a4939b93c2056ecd956ee",
+              "mingZi": "上海市徐汇区漕河泾街道南一村第一居民委员会人民调解委员会",
+              "weiDu": "31.170183",
+              "jingDu": "121.440558",
+              "dianHua": "64361102",
+              "diZhi": "田东路漕溪四村44号",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c9b24e16af31074ba1822ed5",
+              "mingZi": "上海市徐汇区漕河泾街道张家园居民委员会人民调解委员会",
+              "weiDu": "31.157629",
+              "jingDu": "121.447204",
+              "dianHua": "61139330",
+              "diZhi": "石龙路33弄57号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0af834747a13b273f436cdf8d",
+              "mingZi": "上海市徐汇区徐家汇街道乐山四五村居民委员会人民调解委员会",
+              "weiDu": "31.196905",
+              "jingDu": "121.432259",
+              "dianHua": "64078028",
+              "diZhi": "乐山路10弄17号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0bef94114a07172059b335167",
+              "mingZi": "上海市徐汇区斜土路街道大木桥路第五居民委员会人民调解委员会",
+              "weiDu": "31.198839",
+              "jingDu": "121.461402",
+              "dianHua": "64042160",
+              "diZhi": "大木桥路158弄9号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0284146f5bc7bf8afd2099687",
+              "mingZi": "上海市徐汇区斜土路街道日晖二村居民委员会人民调解委员会",
+              "weiDu": "31.193781",
+              "jingDu": "121.465885",
+              "dianHua": "64431923",
+              "diZhi": "大木桥路599弄48号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f38d4bd5bf3d6f68f7861d65",
+              "mingZi": "上海市徐汇区斜土路街道景泰居民委员会人民调解委员会",
+              "weiDu": "31.201389",
+              "jingDu": "121.465063",
+              "dianHua": "64439232",
+              "diZhi": "肇嘉浜路193弄56号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e04e6c4b58bac32d79df422f8a",
+              "mingZi": "上海市徐汇区漕河泾街道漕溪四村居民委员会人民调解委员会",
+              "weiDu": "31.17172",
+              "jingDu": "121.441248",
+              "dianHua": "64083328",
+              "diZhi": "田东路漕溪四村51号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ebd547a3bda18d29dee38832",
+              "mingZi": "上海市徐汇区漕河泾街道金牛居民委员会人民调解委员会",
+              "weiDu": "31.152018",
+              "jingDu": "121.435141",
+              "dianHua": "54080864",
+              "diZhi": "龙川北路800弄42号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03b8b41ad9c407be2050b4260",
+              "mingZi": "上海市徐汇区漕河泾街道科苑居民委员会人民调解委员会",
+              "weiDu": "31.16291",
+              "jingDu": "121.433397",
+              "dianHua": "64839355",
+              "diZhi": "沪闵路9370号2楼",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e08ef14d0181f3d074e3bf0e5b",
+              "mingZi": "上海市徐汇区漕河泾街道华富居民委员会人民调解委员会",
+              "weiDu": "31.17338",
+              "jingDu": "121.444284",
+              "dianHua": "64577156",
+              "diZhi": "龙吴路9弄2号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e07cdf488bb79fa5761e537685",
+              "mingZi": "上海市徐汇区漕河泾街道金谷园居民委员会人民调解委员会",
+              "weiDu": "31.175611",
+              "jingDu": "121.43755",
+              "dianHua": "64865547",
+              "diZhi": "漕溪路125弄28号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ac824fc0965e15b437e533f8",
+              "mingZi": "上海市徐汇区漕河泾街道凯翔居民委员会人民调解委员会",
+              "weiDu": "31.170836",
+              "jingDu": "121.439631",
+              "dianHua": "64516798",
+              "diZhi": "龙漕路135弄",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06041451caaaa23f88e2f52b1",
+              "mingZi": "上海市徐汇区徐家汇街道南赵巷居民委员会人民调解委员会",
+              "weiDu": "31.192475",
+              "jingDu": "121.444804",
+              "dianHua": "64687563",
+              "diZhi": "天钥桥路171弄28号201室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0988243129afefb759d471134",
+              "mingZi": "上海市徐汇区康健街道紫荆党校居民委员会人民调解委员会",
+              "weiDu": "31.162481179505903",
+              "jingDu": "121.4180038610827",
+              "dianHua": "64087020",
+              "diZhi": "虹漕南路300弄1号活动室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e6c144ac8614bb92ea5c4a1a",
+              "mingZi": "上海市徐汇区康健街道紫荆党校居民委员会人民调解委员会",
+              "weiDu": "31.163651527307714",
+              "jingDu": "121.41992773414594",
+              "dianHua": "64087020",
+              "diZhi": "虹漕南路300弄1号活动室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e089ef49969d359a5b93ae705d",
+              "mingZi": "上海市徐汇区康健街道上师大居民委员会人民调解委员会",
+              "weiDu": "31.157689",
+              "jingDu": "121.414709",
+              "dianHua": "64822581",
+              "diZhi": "桂林路70弄21舍51号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c1cb4227933ef8dd1b11c107",
+              "mingZi": "上海市徐汇区漕河泾街道康健路居民委员会人民调解委员会",
+              "weiDu": "31.16606",
+              "jingDu": "121.42881",
+              "dianHua": "64361103",
+              "diZhi": "康健路77弄17号103室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0399c42cc8835bf172ddaba0a",
+              "mingZi": "上海市徐汇区漕河泾街道馨汇南苑居民委员会人民调解委员会",
+              "weiDu": "31.163589",
+              "jingDu": "121.44401",
+              "dianHua": "61732344",
+              "diZhi": "南宁路501弄6号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0bd3f483383d1c066bc67e231",
+              "mingZi": "上海市徐汇区斜土路街道人民调解委员会",
+              "weiDu": "31.200047",
+              "jingDu": "121.457994",
+              "dianHua": "64164221",
+              "diZhi": "医学院路52号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03fb34cc5ba59497b8cfe40ea",
+              "mingZi": "上海市徐汇区斜土路街道上影居民委员会人民调解委员会",
+              "weiDu": "31.202023",
+              "jingDu": "121.461939",
+              "dianHua": "64162763",
+              "diZhi": "大木桥路41弄7号",
+              "renYuan": 15,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e051a74a4d99a321b5629f6230",
+              "mingZi": "上海市徐汇区斜土路街道康巨居民委员会人民调解委员会",
+              "weiDu": "31.19657",
+              "jingDu": "121.467576",
+              "dianHua": "64160595",
+              "diZhi": "茶陵路159弄8号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0934d4fec97a5cae3fcbfda21",
+              "mingZi": "上海市徐汇区斜土路街道恒益居民委员会人民调解委员会",
+              "weiDu": "31.199164",
+              "jingDu": "121.463324",
+              "dianHua": "64033343",
+              "diZhi": "斜土路1275弄9号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0cba041c88631e5e7efee3cae",
+              "mingZi": "上海市徐汇区斜土路街道日晖六村第二居民委员会人民调解委员会",
+              "weiDu": "31.195362",
+              "jingDu": "121.460427",
+              "dianHua": "64039776",
+              "diZhi": "日晖六村46号13室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0706e4763b980186bb67e98c4",
+              "mingZi": "上海市徐汇区虹梅路街道古美四居民委员会人民调解委员会",
+              "weiDu": "31.16021902",
+              "jingDu": "121.4047726",
+              "dianHua": "54590200",
+              "diZhi": "古美路491弄58号102室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e079864de392a3609df4d6cda2",
+              "mingZi": "上海市徐汇区康健街道寿益坊居民委员会人民调解委员会",
+              "weiDu": "31.151334",
+              "jingDu": "121.417173",
+              "dianHua": "54183927",
+              "diZhi": "桂林西街85弄45号乙",
+              "renYuan": 13,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0dd1d418c9d27965b595eb6b9",
+              "mingZi": "上海市徐汇区漕河泾街道人民调解委员会",
+              "weiDu": "31.165656",
+              "jingDu": "121.429806",
+              "dianHua": "64842058",
+              "diZhi": "康健路63号",
+              "renYuan": 12,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e013664302a1627a6b54301513",
+              "mingZi": "上海市徐汇区漕河泾街道月河居民委员会人民调解委员会",
+              "weiDu": "31.16541",
+              "jingDu": "121.429039",
+              "dianHua": "33683587",
+              "diZhi": "康健路58弄2号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e076414a19841384f9e9322c0c",
+              "mingZi": "上海市徐汇区漕河泾街道嘉萱苑居民委员会人民调解委员会",
+              "weiDu": "31.16689",
+              "jingDu": "121.436773",
+              "dianHua": "64754449",
+              "diZhi": "三江路88弄",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b0804d5fb51f6e406d9d76c4",
+              "mingZi": "上海市徐汇区漕河泾街道佳友居民委员会人民调解委员会",
+              "weiDu": "31.176462",
+              "jingDu": "121.442578",
+              "dianHua": "64275716",
+              "diZhi": "龙华西路535弄2号101",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e6504d3db799cefa6bb9b61f",
+              "mingZi": "上海市徐汇区漕河泾街道龙漕居民委员会人民调解委员会",
+              "weiDu": "31.168218",
+              "jingDu": "121.436924",
+              "dianHua": "64517581",
+              "diZhi": "龙漕路58弄8号101",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0eb28409da336a5343d132f2a",
+              "mingZi": "上海市徐汇区漕河泾街道南一村第二居民委员会人民调解委员会",
+              "weiDu": "31.172707",
+              "jingDu": "121.436649",
+              "dianHua": "54244005",
+              "diZhi": "漕东支路漕溪一村10号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09e63449b873a1bfbbccc4c80",
+              "mingZi": "上海市徐汇区漕河泾街道梓树园居民委员会人民调解委员会",
+              "weiDu": "31.16303",
+              "jingDu": "121.430588",
+              "dianHua": "64832915",
+              "diZhi": "钦州路108弄5号101",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e08b9d44febc01c1599edf9360",
+              "mingZi": "上海市徐汇区漕河泾街道薛家宅居民委员会人民调解委员会",
+              "weiDu": "31.163543",
+              "jingDu": "121.426676",
+              "dianHua": "64087238",
+              "diZhi": "冠生园路230弄59号2楼",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f02a46feac9d78bd6884299b",
+              "mingZi": "上海市徐汇区徐家汇街道柿子湾居民委员会人民调解委员会",
+              "weiDu": "31.187422",
+              "jingDu": "121.427171",
+              "dianHua": "64693491",
+              "diZhi": "凯旋路2288弄1号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b1f149398cf744ddb436071c",
+              "mingZi": "上海市徐汇区斜土路街道大木桥路第四居民委员会人民调解委员会",
+              "weiDu": "31.195038",
+              "jingDu": "121.463561",
+              "dianHua": "64167162",
+              "diZhi": "大木桥路485弄5号102室",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0701b4647b7c8babeebadf55e",
+              "mingZi": "上海市徐汇区康健街道人民调解委员会",
+              "weiDu": "31.155145",
+              "jingDu": "121.415962",
+              "dianHua": "54201896",
+              "diZhi": "浦北路268号520室",
+              "renYuan": 11,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0858c4a2caf4901b21977ce58",
+              "mingZi": "上海市徐汇区康健街道长丰坊居民委员会人民调解委员会",
+              "weiDu": "31.154129",
+              "jingDu": "121.416528",
+              "dianHua": "54203917",
+              "diZhi": "桂林西街47弄62号",
+              "renYuan": 11,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01a38436e8b695c95a22eabe1",
+              "mingZi": "上海市徐汇区康健街道联莘居民委员会人民调解委员会",
+              "weiDu": "31.16525769",
+              "jingDu": "121.4142894",
+              "dianHua": "64082136",
+              "diZhi": "桂平路260弄13号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e076ba40edb5be85982e87e1ac",
+              "mingZi": "上海市徐汇区枫林路街道天钥新村第四居民委员会人民调解委员会",
+              "weiDu": "31.184941",
+              "jingDu": "121.448456",
+              "dianHua": "64382324",
+              "diZhi": "天钥新村140号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f49e48c6abea5cc3104dd28b",
+              "mingZi": "上海市徐汇区凌云路街道梅陇十一村第一居民委员会人民调解委员会",
+              "weiDu": "31.14037632",
+              "jingDu": "121.4346341",
+              "dianHua": "64237344",
+              "diZhi": "上中西路151弄35号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e019814ddfbb13c1c34a795e8f",
+              "mingZi": "上海市徐汇区凌云路街道梅陇十村居民委员会人民调解委员会",
+              "weiDu": "31.14186294",
+              "jingDu": "121.4595321",
+              "dianHua": "54631233",
+              "diZhi": "罗秀路186弄129号101室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e094a3435ca484c9bb2abfca0c",
+              "mingZi": "上海市徐汇区凌云路街道梅陇九村居民委员会人民调解委员会",
+              "weiDu": "31.1350907",
+              "jingDu": "121.4127787",
+              "dianHua": "64243154",
+              "diZhi": "上中西路58弄35号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e049f24c1bb3ff93feae26717e",
+              "mingZi": "上海市徐汇区康健街道樱花园居民委员会人民调解委员会",
+              "weiDu": "31.15317908",
+              "jingDu": "121.4205168",
+              "dianHua": "54193915",
+              "diZhi": "桂平支路20弄17号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e07b0c4a9589cdf0303599bc30",
+              "mingZi": "上海市徐汇区康健街道玉兰园居民委员会人民调解委员会",
+              "weiDu": "31.15018864",
+              "jingDu": "121.419645",
+              "dianHua": "54191935",
+              "diZhi": "桂江路77弄62号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e036324009b0650da271ae108e",
+              "mingZi": "上海市徐汇区康健街道丁香迎春居民委员会人民调解委员会",
+              "weiDu": "31.15185877",
+              "jingDu": "121.4214587",
+              "dianHua": "54183912",
+              "diZhi": "百花街345弄25号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c6c84c8ca424730f89be7362",
+              "mingZi": "上海市徐汇区康健街道茶花桂花居民委员会人民调解委员会",
+              "weiDu": "31.15457445",
+              "jingDu": "121.4226918",
+              "dianHua": "54182712",
+              "diZhi": "江安路58弄66号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02aa14ca780a35c73347744fe",
+              "mingZi": "上海市徐汇区康健街道紫薇园居民委员会人民调解委员会",
+              "weiDu": "31.15772572",
+              "jingDu": "121.4173775",
+              "dianHua": "54185916",
+              "diZhi": "桂平路123弄",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e01baf4802a1dafe1664b1bbc2",
+              "mingZi": "上海市徐汇区康健街道月季百藤居民委员会人民调解委员会",
+              "weiDu": "31.15672894",
+              "jingDu": "121.4181542",
+              "dianHua": "54188220",
+              "diZhi": "桂平路126号2楼",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06a7e4c58b5e3de5c9558df8f",
+              "mingZi": "上海市徐汇区康健街道紫鹃园居民委员会人民调解委员会",
+              "weiDu": "31.16215334",
+              "jingDu": "121.4183271",
+              "dianHua": "54204041",
+              "diZhi": "钦州南路917弄89号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e6764466a1cdaef9495f79cc",
+              "mingZi": "上海市徐汇区枫林路街道黄家宅居民委员会人民调解委员会",
+              "weiDu": "31.184251",
+              "jingDu": "121.451623",
+              "dianHua": "64683667",
+              "diZhi": "宛平南路911号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e02f024807852b8f6ce2f717ca",
+              "mingZi": "上海市徐汇区华泾镇漓江山水居民委员会人民调解委员会",
+              "weiDu": "31.12236473",
+              "jingDu": "121.4490849",
+              "dianHua": "64965289",
+              "diZhi": "华泾路999弄",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0185c458bab17c7abb6d28f98",
+              "mingZi": "上海市徐汇区康健街道康乐小区居民委员会人民调解委员会",
+              "weiDu": "31.158435",
+              "jingDu": "121.423939",
+              "dianHua": "64844042",
+              "diZhi": "钦州南路451弄46号101室",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e068f44e64a64605002cdd208c",
+              "mingZi": "上海市徐汇区枫林路街道四季园居民委员会人民调解委员会",
+              "weiDu": "31.196554",
+              "jingDu": "121.452584",
+              "dianHua": "64179107",
+              "diZhi": "东安路149弄2号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a43449e4be7e0e376b44f746",
+              "mingZi": "上海市徐汇区凌云路街道人民调解委员会",
+              "weiDu": "31.14464956",
+              "jingDu": "121.4207826",
+              "dianHua": "64550494*8030",
+              "diZhi": "老沪闵路1039弄48号1楼人民调解室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0feec4d72960cbc73b706367c",
+              "mingZi": "上海市徐汇区凌云路街道阳光居民委员会人民调解委员会",
+              "weiDu": "31.136135",
+              "jingDu": "121.428053",
+              "dianHua": "54393027",
+              "diZhi": "天等路258弄3号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e068b14719b43ee20b49059ab2",
+              "mingZi": "上海市徐汇区凌云路街道闵朱居民委员会人民调解委员会",
+              "weiDu": "31.13793439",
+              "jingDu": "121.4393782",
+              "dianHua": "64101281",
+              "diZhi": "罗秀路850弄4号204室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0cb4c4a95ab55ec086dfcfd3d",
+              "mingZi": "上海市徐汇区凌云路街道闵秀居民委员会人民调解委员会",
+              "weiDu": "31.13638018",
+              "jingDu": "121.4402254",
+              "dianHua": "64537258",
+              "diZhi": "老沪闵路1039弄49号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0244c4751a6811877c5771470",
+              "mingZi": "上海市徐汇区凌云路街道舒乐居民委员会人民调解委员会",
+              "weiDu": "31.136173",
+              "jingDu": "121.4411409",
+              "dianHua": "64539087",
+              "diZhi": "老沪闵路1055弄38号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e026fc4db8840f263fe516e25f",
+              "mingZi": "上海市徐汇区凌云路街道金塘居民委员会人民调解委员会",
+              "weiDu": "31.148375",
+              "jingDu": "121.426505",
+              "dianHua": "54354861",
+              "diZhi": "桂林南路125弄40号",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c9ee475282ef94f4a285aa70",
+              "mingZi": "上海市徐汇区凌云路街道陇南居民委员会人民调解委员会",
+              "weiDu": "31.13509531",
+              "jingDu": "121.4283661",
+              "dianHua": "64760239",
+              "diZhi": "罗秀路1175弄38号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09e144c3d99d5ee2cd42fa0d9",
+              "mingZi": "上海市徐汇区凌云路街道凌云新村居民委员会人民调解委员会",
+              "weiDu": "31.14543169",
+              "jingDu": "121.4233104",
+              "dianHua": "64237625",
+              "diZhi": "虹梅南路126弄159号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e077dc4ebca2c12487759f7dc4",
+              "mingZi": "上海市徐汇区枫林路街道西木北居民委员会人民调解委员会",
+              "weiDu": "31.195608",
+              "jingDu": "121.458317",
+              "dianHua": "64186556",
+              "diZhi": "小木桥路360弄7号101室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f4634d0db155b2f381ca1f0a",
+              "mingZi": "上海市徐汇区长桥街道长桥四村居民委员会人民调解委员会",
+              "weiDu": "31.139383030194",
+              "jingDu": "121.44479493718856",
+              "dianHua": "64103429",
+              "diZhi": "长桥四村97号2室",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0b974444480f343dd71591bef",
+              "mingZi": "上海市徐汇区长桥街道罗秀居民委员会人民调解委员会",
+              "weiDu": "31.1388086282862",
+              "jingDu": "121.45251659169122",
+              "dianHua": "64760469",
+              "diZhi": "罗秀新村112号101室",
+              "renYuan": 1,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09aff4cf29660d46055be05cf",
+              "mingZi": "上海市徐汇区凌云路街道和平居民委员会人民调解委员会",
+              "weiDu": "31.13899386",
+              "jingDu": "121.4373825",
+              "dianHua": "64107333",
+              "diZhi": "罗秀路930弄97号",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e08b7b4e3ab0779bcb7d972352",
+              "mingZi": "上海市徐汇区长桥街道长桥光华居民委员会人民调解委员会",
+              "weiDu": "31.139402",
+              "jingDu": "121.431395",
+              "dianHua": "64540164",
+              "diZhi": "老沪闵路790弄20号",
+              "renYuan": 9,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0d75947eea86025aca9ec062a",
+              "mingZi": "上海市徐汇区长桥街道港口居民委员会人民调解委员会",
+              "weiDu": "31.143716",
+              "jingDu": "121.451704",
+              "dianHua": "54358849",
+              "diZhi": "龙吴路苑宏新村16号甲",
+              "renYuan": 10,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0865b4c7485f393e3e27e0c37",
+              "mingZi": "上海市徐汇区徐家汇街道陈家宅居民委员会人民调解委员会",
+              "weiDu": "31.183534",
+              "jingDu": "121.433499",
+              "dianHua": "64279771",
+              "diZhi": "中漕路92号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e04e0a437d8eb9daa251459e5b",
+              "mingZi": "上海市徐汇区田林街道千鹤第二、四居民委员会人民调解委员会",
+              "weiDu": "31.179989",
+              "jingDu": "121.418587",
+              "dianHua": "64086117",
+              "diZhi": "钦州北路399弄11号103室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e08b3942c5b7512d639a2761a3",
+              "mingZi": "上海市徐汇区医疗器械行业经济技术人民调解委员会",
+              "weiDu": "31.207898057783122",
+              "jingDu": "121.46173300769807",
+              "dianHua": "54651421",
+              "diZhi": "肇嘉浜路446弄2号楼205室",
+              "renYuan": 0,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e05b9347849604d4f890c9d1ed",
+              "mingZi": "上海市徐汇区知识产权纠纷人民调解委员会",
+              "weiDu": "31.169152089592195",
+              "jingDu": "121.44623500472936",
+              "dianHua": "64692987",
+              "diZhi": "商城路738号胜康廖氏大厦1002室",
+              "renYuan": 0,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e06c8b40699871c039379cf8db",
+              "mingZi": "上海市徐汇区动拆迁纠纷人民调解委员会",
+              "weiDu": "31.190163563265013",
+              "jingDu": "121.44189120505129",
+              "dianHua": "64872222*1253",
+              "diZhi": "徐汇区中漕路22号",
+              "renYuan": 0,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0eea84c1fa37e999ec414ac53",
+              "mingZi": "上海市徐汇区虹梅路街道虹南居民委员会人民调解委员会",
+              "weiDu": "31.181752",
+              "jingDu": "121.411318",
+              "dianHua": "64951306",
+              "diZhi": "钦州北路1018弄66号",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e95145afbec793ace97f6101",
+              "mingZi": "上海市徐汇区漕河泾街道西街居民委员会人民调解委员会",
+              "weiDu": "31.16492",
+              "jingDu": "121.427307",
+              "dianHua": "64082536",
+              "diZhi": "康健路100弄20号108",
+              "renYuan": 25,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c9e54533ad9fe449339d53a8",
+              "mingZi": "上海市徐汇区康健街道金桂苑居民委员会人民调解委员会",
+              "weiDu": "31.162574",
+              "jingDu": "121.413669",
+              "dianHua": "64951759",
+              "diZhi": "虹漕南路99弄7号",
+              "renYuan": 8,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0edcb419aa36b601b1581b68f",
+              "mingZi": "上海市徐汇区涉校纠纷人民调解委员会",
+              "weiDu": "31.21502132998269",
+              "jingDu": "121.46358821159323",
+              "dianHua": "54665793",
+              "diZhi": "永嘉路354号104室",
+              "renYuan": 0,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0ed094981bb05b9301781b553",
+              "mingZi": "上海市徐汇区旅游纠纷人民调解委员会",
+              "weiDu": "31.18500375894596",
+              "jingDu": "121.44481628092748",
+              "dianHua": "18502102059",
+              "diZhi": "中山南二路2419号211室",
+              "renYuan": 4,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0c4134603a81bdfdf898c3a40",
+              "mingZi": "上海市徐汇区长桥街道华沁居民委员会人民调解委员会",
+              "weiDu": "31.14438943286976",
+              "jingDu": "121.4565542979924",
+              "dianHua": "64159268",
+              "diZhi": "龙吴路1343弄1号底楼1-1室",
+              "renYuan": 7,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0f03e4db686b15a751c5c2a4e",
+              "mingZi": "上海市徐汇区华泾镇印象旭辉居民委员会人民调解委员会",
+              "weiDu": "31.1231173547981",
+              "jingDu": "121.46703382407176",
+              "dianHua": "54847589",
+              "diZhi": "望月路47栋890号5楼",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e00fce4c2eb2c488613d9748fc",
+              "mingZi": "上海市徐汇区华泾镇盛华景苑居民委员会人民调解委员会",
+              "weiDu": "31.11339180521211",
+              "jingDu": "121.46295375997087",
+              "dianHua": "54793709",
+              "diZhi": "龙吴路2888弄1号1楼",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e029f94cd1b7f745448b96d3be",
+              "mingZi": "上海市徐汇区枫林路街道枫林居民委员会人民调解委员会",
+              "weiDu": "31.199030023129033",
+              "jingDu": "121.46477321849319",
+              "dianHua": "64036478",
+              "diZhi": "零陵路289弄11号101室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0591a47c7b361e4d0bccd9bc8",
+              "mingZi": "上海市徐汇区凌云路街道梅陇三村（绿主妇）居民委员会人民调解委员会",
+              "weiDu": "31.143455189051505",
+              "jingDu": "121.42314073580248",
+              "dianHua": "54284392",
+              "diZhi": "梅陇三村44号203室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e03c2149fa9dcec3d395e43947",
+              "mingZi": "上海市徐汇区田林街道小安桥居民委员会人民调解委员会",
+              "weiDu": "31.191363317476746",
+              "jingDu": "121.4302534541525",
+              "dianHua": "34240933",
+              "diZhi": "中山西路1698弄1号202室",
+              "renYuan": 6,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e09eff4c059e97d12f6e9092b4",
+              "mingZi": "上海市徐汇区上海市工商联民商事人民调解委员会",
+              "weiDu": "31.217542268714126",
+              "jingDu": "121.4433692239374",
+              "dianHua": "63373160",
+              "diZhi": "华山路893号",
+              "renYuan": 31,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a05d4d4081bf8439c9d355ae",
+              "mingZi": "上海市徐汇区虹梅路街道华悦家园居民委员会人民调解委员会",
+              "weiDu": "31.172254632397767",
+              "jingDu": "121.41474581030316",
+              "dianHua": "64829560",
+              "diZhi": "虹漕路19弄27号201室",
+              "renYuan": 3,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0a35f41aeb107e473c9cf62bb",
+              "mingZi": "上海市徐汇区上海先行知识产权法治中心人民调解委员会",
+              "weiDu": "31.19643238861569",
+              "jingDu": "121.43391421439388",
+              "dianHua": "22810990",
+              "diZhi": "徐虹北路11号212室B座",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e0e0ce4954a60938149b013567",
+              "mingZi": "上海市徐汇区住宅小区物业纠纷人民调解委员会",
+              "weiDu": "31.217384957723",
+              "jingDu": "121.45916804183985",
+              "dianHua": "64378285",
+              "diZhi": "复兴中路1331号",
+              "renYuan": 5,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "9d60a3e015d34957baf23f87b9ec58e8",
+              "mingZi": "上海市徐汇区华泾镇工会劳动争议人民调解委员会",
+              "weiDu": "31.12372203043961",
+              "jingDu": "121.46276066021844",
+              "dianHua": "54826192",
+              "diZhi": "龙吴路2443号",
+              "renYuan": 2,
+              "leixing": "mediationcommittee"
+          },
+          {
+              "id_": "c0a0fd14a16842cf82bfd9e9bfe003f2",
+              "mingZi": "上海市龙华律师事务所",
+              "weiDu": "31.14104748",
+              "jingDu": "121.4555524",
+              "dianHua": "61913048",
+              "diZhi": "罗秀路108号8416-8421室(聚鑫大厦)",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14587849f8a07dc0d57636cab9",
+              "mingZi": "上海汇鼎律师事务所",
+              "weiDu": "31.2058555",
+              "jingDu": "121.4621063",
+              "dianHua": "（86-21）64033311",
+              "diZhi": "上海市徐汇区医学院路69号7层B座",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14bf61450c9d0681662620c08d",
+              "mingZi": "上海共识久久律师事务所",
+              "weiDu": "31.24877758",
+              "jingDu": "121.4647433",
+              "dianHua": "63548400     63547898",
+              "diZhi": "汉中路158号807室(汉中广场)",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14c45a4645b719e92abd063ab2",
+              "mingZi": "上海孙仁荣律师事务所",
+              "weiDu": "31.21698727",
+              "jingDu": "121.4902798",
+              "dianHua": "15810526857",
+              "diZhi": "陆家浜路1332号南开大厦1505室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14c4ff4831a9f9010a66f151ef",
+              "mingZi": "上海鼎城律师事务所",
+              "weiDu": "31.19492705",
+              "jingDu": "121.4493466",
+              "dianHua": "33632731   33632733",
+              "diZhi": "徐汇区天钥桥路329号嘉汇国际广场B座819-820室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14d2f049109325471a165d9ed0",
+              "mingZi": "上海市纽思达律师事务所",
+              "weiDu": "39.80160407",
+              "jingDu": "116.5130414",
+              "dianHua": "34241002,34241005",
+              "diZhi": "蒲汇塘路11号博大大厦1605室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14f43e4232a37586e345db7b8b",
+              "mingZi": "上海市华夏律师事务所",
+              "weiDu": "31.19034321",
+              "jingDu": "121.4470543",
+              "dianHua": "64649480",
+              "diZhi": "零陵路751弄4号楼1611室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14b43a445589536e5b78f301f7",
+              "mingZi": "上海东座律师事务所",
+              "weiDu": "31.20591069",
+              "jingDu": "121.4556308",
+              "dianHua": "64151078 15921105151",
+              "diZhi": "肇嘉浜路680号金钟大厦420室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd140598480b9c58a27707b300ae",
+              "mingZi": "上海业盈律师事务所",
+              "weiDu": "31.17029667",
+              "jingDu": "121.4377357",
+              "dianHua": "15900535183",
+              "diZhi": "钦州路201号499室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14384f43068d2d2965589b5b69",
+              "mingZi": "上海市创导律师事务所",
+              "weiDu": "31.20789589",
+              "jingDu": "121.4404024",
+              "dianHua": "52989166",
+              "diZhi": "淮海西路55号22楼D座",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd1438c349ecaf4b98aeaf9232a6",
+              "mingZi": "上海市浩信律师事务所",
+              "weiDu": "31.19222847",
+              "jingDu": "121.4648467",
+              "dianHua": "33632298",
+              "diZhi": "龙华中路600号B座2106-2108室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd148c3b4424a76e032b13561e28",
+              "mingZi": "上海衡铭律师事务所",
+              "weiDu": "31.21139948",
+              "jingDu": "121.465307",
+              "dianHua": "54015087",
+              "diZhi": "建国西路285号1楼",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd1495d34d63a3158be3a793db50",
+              "mingZi": "上海远业律师事务所",
+              "weiDu": "31.19065707",
+              "jingDu": "121.4349734",
+              "dianHua": "54250722",
+              "diZhi": "宜山路425号光启城1012室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14c789456199f442e0a3e66316",
+              "mingZi": "北京市隆安律师事务所上海分所",
+              "weiDu": "31.19567739",
+              "jingDu": "121.4486927",
+              "dianHua": "60857666",
+              "diZhi": "漕溪北路333号中金国际广场B座20层01-03室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14e38a446c836118ab930f555d",
+              "mingZi": "上海市信本律师事务所",
+              "weiDu": "31.25591127",
+              "jingDu": "121.5115805",
+              "dianHua": "55100136",
+              "diZhi": "东大名路888号5号楼404室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd146f6141a0a729ed644934fc05",
+              "mingZi": "上海市君成律师事务所",
+              "weiDu": "31.20114865",
+              "jingDu": "121.4283742",
+              "dianHua": "64222791",
+              "diZhi": "凯旋路1669号2层南部",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd1461da4c52b71186c614bf9417",
+              "mingZi": "上海市申光律师事务所",
+              "weiDu": "31.22475689",
+              "jingDu": "121.4620269",
+              "dianHua": "54043872",
+              "diZhi": "襄阳北路97号618室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14cffa41868c00ae574f5423c1",
+              "mingZi": "上海龙耀律师事务所",
+              "weiDu": "31.22453243",
+              "jingDu": "121.4764628",
+              "dianHua": "60323611",
+              "diZhi": "雁荡路107号雁荡大厦11楼A座",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14df3d44d3bc1f519c39c053d5",
+              "mingZi": "上海沪泰律师事务所",
+              "weiDu": "31.18960328",
+              "jingDu": "121.4307332",
+              "dianHua": "021-64860893",
+              "diZhi": "上海市中山西路1800号兆丰环球大厦17楼E1",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14c1064c22bfe7196d4c638979",
+              "mingZi": "上海市大公律师事务所",
+              "weiDu": "31.18692531",
+              "jingDu": "121.4273327",
+              "dianHua": "64874634-25、64870883",
+              "diZhi": "钦州北路188号（华京商务大厦）706—708室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd140e564cee806c0c3cdb77c09f",
+              "mingZi": "上海德禾翰通律师事务所",
+              "weiDu": "31.19065707",
+              "jingDu": "121.4349734",
+              "dianHua": "021-60328686",
+              "diZhi": "宜山路425号光启城大厦21层",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14f09449dc860b213d31b090dd",
+              "mingZi": "上海恒隆律师事务所",
+              "weiDu": "31.20434428",
+              "jingDu": "121.4541949",
+              "dianHua": "64685451",
+              "diZhi": "肇嘉浜路807号3楼B座",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14add84ceb99bcf4f2f35577bb",
+              "mingZi": "上海创言律师事务所",
+              "weiDu": "31.16200382",
+              "jingDu": "121.4297279",
+              "dianHua": "4009201858",
+              "diZhi": "浦北路211号",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14587f4e6f8e1132a5792b89f7",
+              "mingZi": "上海市沪一律师事务所",
+              "weiDu": "31.21928526",
+              "jingDu": "121.4578644",
+              "dianHua": "64311118",
+              "diZhi": "淮海中路1285弄8号",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14aff645ab9be75297e6969c68",
+              "mingZi": "上海天闻世代律师事务所",
+              "weiDu": "31.19332492",
+              "jingDu": "121.4229949",
+              "dianHua": "64734071　33533738",
+              "diZhi": "吴中路51号汇豪商务广场1号楼610室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14e61c4d60a16acd1540521a1c",
+              "mingZi": "上海美易律师事务所",
+              "weiDu": "30.64459924",
+              "jingDu": "120.5379379",
+              "dianHua": "60328689",
+              "diZhi": "中山西路1055号A510室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd149d694e2989e314241664c48e",
+              "mingZi": "上海金澄律师事务所",
+              "weiDu": "31.2092056",
+              "jingDu": "121.4710638",
+              "dianHua": "64222969",
+              "diZhi": "肇嘉浜路159号2201室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd147c924f85ab32bf8ecc9470a3",
+              "mingZi": "上海达隆律师事务所",
+              "weiDu": "31.17430445",
+              "jingDu": "121.4360925",
+              "dianHua": "64329451",
+              "diZhi": "漕宝路66号B座17层06~08室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd146baf46309d1258a2d9786958",
+              "mingZi": "上海国畅律师事务所",
+              "weiDu": "31.24057266",
+              "jingDu": "121.4263598",
+              "dianHua": "60702998",
+              "diZhi": "宁夏路201号绿地科创大厦16楼A座",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd1466ae42e2b470e9b1c3eb9c46",
+              "mingZi": "上海申邦律师事务所",
+              "weiDu": "31.20864844",
+              "jingDu": "121.4639696",
+              "dianHua": "021-64450009   64450110",
+              "diZhi": "肇嘉浜路376号轻工大厦501室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14c79340059cb1c652a6a637a2",
+              "mingZi": "上海汉盛律师事务所",
+              "weiDu": "31.21962527",
+              "jingDu": "121.5416025",
+              "dianHua": "51877676",
+              "diZhi": "浦东新区杨高南路729号陆家嘴世纪金融广场1号楼22楼01，04室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14759041c8aaa7939e1cc25b55",
+              "mingZi": "上海董道律师事务所",
+              "weiDu": "31.17430445",
+              "jingDu": "121.4360925",
+              "dianHua": "021-64320068",
+              "diZhi": "徐汇区漕宝路66号B座1708室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd1483a54b09950e699f24c9eec1",
+              "mingZi": "上海市尚法律师事务所",
+              "weiDu": "31.20473542",
+              "jingDu": "121.4557177",
+              "dianHua": "02164436351",
+              "diZhi": "肇嘉浜路789号均瑶国际广场９楼Ａ座",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14770a4d6d97950e77f5776d22",
+              "mingZi": "上海君恩律师事务所",
+              "weiDu": "31.20434428",
+              "jingDu": "121.4541949",
+              "dianHua": "33683708（前台）33681078（主任）",
+              "diZhi": "肇嘉浜路807号1105室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd1413ce4073bb2919f2c996fa1c",
+              "mingZi": "上海鼎添律师事务所",
+              "weiDu": "31.201333",
+              "jingDu": "121.4344821",
+              "dianHua": "64480078",
+              "diZhi": "番禺路1000号三楼",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14d3574fe6b15565ff42d8ed75",
+              "mingZi": "上海申渝律师事务所",
+              "weiDu": "31.19416138",
+              "jingDu": "121.4425619",
+              "dianHua": "02161289708",
+              "diZhi": "漕溪北路398号汇智大厦3005室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14a144404190d0d889984e6419",
+              "mingZi": "上海市申汇律师事务所",
+              "weiDu": "31.20857102",
+              "jingDu": "121.4512521",
+              "dianHua": "64745671",
+              "diZhi": "衡山路327号",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd147fb6413ca641a009bd0675d3",
+              "mingZi": "上海华尊律师事务所",
+              "weiDu": "31.23145961",
+              "jingDu": "121.4640667",
+              "dianHua": "68406889",
+              "diZhi": "威海路755号文新报业大厦29层01-03室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14e4ad475ba91a946664775340",
+              "mingZi": "上海海一律师事务所",
+              "weiDu": "31.17418542",
+              "jingDu": "121.4348388",
+              "dianHua": "64326226",
+              "diZhi": "漕宝路70号C座2805室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14710e4f1c84acae54fdc1df1e",
+              "mingZi": "上海市嘉华律师事务所",
+              "weiDu": "31.19597086",
+              "jingDu": "121.4470964",
+              "dianHua": "34618833",
+              "diZhi": "漕溪北路375号中金国际广场C座19楼",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14d7b74e028586c727be0dd69c",
+              "mingZi": "上海胡菁律师事务所",
+              "weiDu": "31.22212488",
+              "jingDu": "121.4584766",
+              "dianHua": "021-54038150",
+              "diZhi": "上海市延庆路42号甲",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd144a1242248a12a09b8a8fafba",
+              "mingZi": "上海理研律师事务所",
+              "weiDu": "31.23814526",
+              "jingDu": "121.4734794",
+              "dianHua": "021-63727700",
+              "diZhi": "成都北路500号2303室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd14a32549d4bba565752f82c2ea",
+              "mingZi": "上海市君志律师事务所",
+              "weiDu": "31.21615515",
+              "jingDu": "121.4342419",
+              "dianHua": "60825321",
+              "diZhi": "延安西路1228弄2号嘉利大厦17楼A、B室",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd143da9498c9843bbd380da51bb",
+              "mingZi": "上海市天域律师事务所",
+              "weiDu": "31.19530236",
+              "jingDu": "121.4260359",
+              "dianHua": "64698801",
+              "diZhi": "吴中路8号（锦辉大厦）1118",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          },
+          {
+              "id_": "c0a0fd1499f7439d855b266e226e1139",
+              "mingZi": "万商天勤（上海）律师事务所",
+              "weiDu": "28.64828698",
+              "jingDu": "121.2720529",
+              "dianHua": "50819091",
+              "diZhi": "世纪大道88号金茂大厦办公楼9楼",
+              "renYuan": 0,
+              "leixing": "consultantfirm"
+          }
+      ],
+      "zhongDianGZSJ": [
+          {
+              "id_": "b10a2ae4d78f40899c577c71006f6573",
+              "shiJian": "2019-01-02 00:00",
+              "diDian": "上海市徐汇区虹梅路街道航天新苑居民委员会人民调解委员会",
+              "weiDu": "31.178673127120327",
+              "jingDu": "121.40210800552416",
+              "gaiYao": "其他相邻权",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4c8514a4bbb8d7319bd54cb4b",
+              "shiJian": "2019-01-03 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae47fa04f02b17625b52e433111",
+              "shiJian": "2019-01-10 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议归档",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae433014b96a3c1eff9b4fd4535",
+              "shiJian": "2019-01-12 00:00",
+              "diDian": "上海市徐汇区漕河泾街道华富居民委员会人民调解委员会",
+              "weiDu": "31.17338",
+              "jingDu": "121.444284",
+              "gaiYao": "噪音",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4cff0478da5469e6a645a6ae2",
+              "shiJian": "2019-01-14 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议归档",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4982848ad897fc6f70772eb26",
+              "shiJian": "2019-01-14 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "拖欠农民工工资纠纷",
+              "zhuangTai": "协议归档",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae488c64d898a200610e3b61b6b",
+              "shiJian": "2019-01-14 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议归档",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae41ac040f9be8154bf1308e9f4",
+              "shiJian": "2019-01-14 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议归档",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae439de4b44a3d7f49b532686b2",
+              "shiJian": "2019-01-15 00:00",
+              "diDian": "上海市徐汇区消费者权益保护委员会人民调解委员会",
+              "weiDu": "31.190811",
+              "jingDu": "121.437199",
+              "gaiYao": "其他商品消费纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "涉外事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae42a634cadb15f1bfe7cb65725",
+              "shiJian": "2019-01-17 00:00",
+              "diDian": null,
+              "weiDu": null,
+              "jingDu": null,
+              "gaiYao": "其他纠纷",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4c4eb4be09ce239a52c869b1e",
+              "shiJian": "2019-01-24 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4b2ec438ab6367d333afc3e78",
+              "shiJian": "2019-01-24 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae462544ac482bbd655dd8f501d",
+              "shiJian": "2019-01-24 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae48a1b47e697da17aa0a1f6017",
+              "shiJian": "2019-01-24 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4286a4cf69400c92b44a9054f",
+              "shiJian": "2019-01-25 00:00",
+              "diDian": "上海市徐汇区虹梅路街道航天新苑居民委员会人民调解委员会",
+              "weiDu": "31.178673127120327",
+              "jingDu": "121.40210800552416",
+              "gaiYao": "其他邻里纠纷",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4288e4db2a5f565d840106221",
+              "shiJian": "2019-01-25 00:00",
+              "diDian": "上海市徐汇区消费者权益保护委员会人民调解委员会",
+              "weiDu": "31.190811",
+              "jingDu": "121.437199",
+              "gaiYao": "服务消费纠纷",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae472234a88ab0d5df3a327740c",
+              "shiJian": "2019-01-29 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "拖欠农民工工资纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4f5a24179aeccf37d80350a27",
+              "shiJian": "2019-01-30 00:00",
+              "diDian": "上海市徐汇区漕河泾街道佳友居民委员会人民调解委员会",
+              "weiDu": "31.176462",
+              "jingDu": "121.442578",
+              "gaiYao": "噪音",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4d1154a729600bf7062ee01b8",
+              "shiJian": "2019-01-30 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae42eb441249e329a540edbd97e",
+              "shiJian": "2019-01-30 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4ed3d4803b5bda66c11555bbe",
+              "shiJian": "2019-01-31 00:00",
+              "diDian": "上海市徐汇区虹梅路街道航天新苑居民委员会人民调解委员会",
+              "weiDu": "31.178673127120327",
+              "jingDu": "121.40210800552416",
+              "gaiYao": "其他婚姻家庭纠纷",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae44be646cdbac3288983eea2a2",
+              "shiJian": "2019-02-12 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4bcff4076a9f18f841cd17b83",
+              "shiJian": "2019-02-12 00:00",
+              "diDian": "上海市徐汇区虹梅路街道航天新苑居民委员会人民调解委员会",
+              "weiDu": "31.178673127120327",
+              "jingDu": "121.40210800552416",
+              "gaiYao": "物业管理纠纷",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4aec847cc967a1e28d6a51e9e",
+              "shiJian": "2019-02-20 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae444bc4077a3a6e0ec420e23ca",
+              "shiJian": "2019-02-20 00:00",
+              "diDian": "上海市徐汇区田林街道田林五、六、七村居民委员会人民调解委员会",
+              "weiDu": "31.17841189",
+              "jingDu": "121.42691",
+              "gaiYao": "噪音",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae46ae947c182bc2bdae3da419d",
+              "shiJian": "2019-02-20 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4ca734037b944c913b8330789",
+              "shiJian": "2019-02-20 00:00",
+              "diDian": "上海市徐汇区劳动争议人民调解委员会",
+              "weiDu": "31.192948",
+              "jingDu": "121.430194",
+              "gaiYao": "其他劳动争议纠纷",
+              "zhuangTai": "协议回访",
+              "anJianLX": "企业双欠事件",
+              "laiYuan": "人民调解"
+          },
+          {
+              "id_": "b10a2ae4dc884bd5bb77211df58e845a",
+              "shiJian": "2019-02-26 00:00",
+              "diDian": "上海市徐汇区长桥街道华东花苑第二居民委员会人民调解委员会",
+              "weiDu": "31.148021",
+              "jingDu": "121.434165",
+              "gaiYao": "漏水",
+              "zhuangTai": "超期",
+              "anJianLX": "久调不解",
+              "laiYuan": "人民调解"
+          }
+      ]
+  }
+}

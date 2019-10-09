@@ -662,9 +662,6 @@ export default {
         border: 0 !important;
       }
     }
-    .zhang {
-
-    }
     .title {
       display: flex;
       align-items: center;
